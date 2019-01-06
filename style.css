@@ -30,6 +30,6 @@
     transform: translate(-50%, -50%);
 }
 
-.py-custom {
-    padding: 5rem 0;
+.pt-custom {
+    padding-top: 5rem;
 }
