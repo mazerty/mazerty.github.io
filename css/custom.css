@@ -38,11 +38,9 @@
     opacity: 0.5; /* that way the text color is inherited, but then *everything* is opacified */
 }
 
-.full-height-background {
-    position: fixed;
+.center {
     top: 50%;
     left: 50%;
-    height: 100%;
     transform: translate(-50%, -50%);
 }
 
