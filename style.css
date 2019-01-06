@@ -1,0 +1,35 @@
+.font-ubuntu {
+    font-family: "Ubuntu", sans-serif;
+}
+
+.font-special-elite {
+    font-family: 'Special Elite', cursive;
+}
+
+.bg-black {
+    background-color: black;
+}
+
+.bg-sepia {
+    background-color: #f8f9f0; /* default "light" is #f8f9fa */
+}
+
+.text-sepia {
+    color: #683a40; /* default "dark" is #343a40 */
+}
+
+.text-muted-custom {
+    opacity: 0.5; /* that way the text color is inherited, but then *everything* is opacified */
+}
+
+.full-height-background {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    height: 100%;
+    transform: translate(-50%, -50%);
+}
+
+.py-custom {
+    padding: 5rem 0;
+}
