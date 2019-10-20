@@ -5,6 +5,9 @@ subtitle: 'a <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morro
 body-classes: "bg-leather text-leather"
 nav-classes: "navbar-light bg-light"
 ---
+Spoiler warning: this fiction closely follows the story of the game and both its extensions, you'd better not read if you want to discover it by yourself.
+{: .text-muted-custom}
+
 Fresh start, fresh diary.
 I'll have to check the shack for the old one though.
 If I manage to get back to Cyrodiil that is.
