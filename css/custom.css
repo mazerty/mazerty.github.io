@@ -60,3 +60,15 @@
 .fade-in {
     animation: fade 1s forwards;
 }
+
+a, a:hover {
+    color: inherit;
+}
+
+.credit {
+    width: 512px;
+    bottom: 0;
+    left: 50%;
+    transform: translateX(-50%);
+    text-align: center;
+}

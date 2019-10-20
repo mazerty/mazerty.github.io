@@ -1,7 +1,7 @@
 ---
 layout: writing
 title: "The Albion Circle"
-subtitle: 'a <a class="text-reset" href="https://store.steampowered.com/app/236850/">Europa Universalis 4</a> fiction'
+subtitle: 'a <a href="https://store.steampowered.com/app/236850/">Europa Universalis 4</a> fiction'
 body-classes: "bg-sepia text-sepia"
 nav-classes: "navbar-dark bg-dark"
 ---
