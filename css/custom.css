@@ -34,6 +34,14 @@
     color: #683a40; /* default "dark" is #343a40 */
 }
 
+.bg-leather {
+    background-color: #2e1e0f;
+}
+
+.text-leather {
+    color: #b9a394;
+}
+
 .text-muted-custom {
     opacity: 0.5; /* that way the text color is inherited, but then *everything* is opacified */
 }
