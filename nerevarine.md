@@ -9,3 +9,7 @@ Fresh start, fresh diary.
 I'll have to check the shack for the old one though.
 If I manage to get back to Cyrodiil that is.
 Anyway, a lot happened since my last entry, so let's get back to it!
+
+The Umbacano job proved to be my downfall, as I got caught just as I left the manor.
+Prison gossip told me Darelo had sold me out then bragged about it to some wench, stupid bastard.
+That his death came from the Gray Fox himself I doubt very much though.
