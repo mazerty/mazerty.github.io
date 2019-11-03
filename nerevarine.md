@@ -19,3 +19,6 @@ That his death came from the Gray Fox himself I doubt very much though.
 I spent a couple of months in jail, then got woken up one morning by a bunch of guards.
 I fought them, only to get clubbed and knocked out.
 When I came to, I was in the hold of some ship, together with a Dunmer called Jiub who told me we were bound to Morrowind.
+
+todo: finish introduction
+
