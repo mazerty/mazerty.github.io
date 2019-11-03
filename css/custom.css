@@ -6,10 +6,6 @@
     src: local("Ubuntu Regular"), local("Ubuntu-Regular"), url(../webfonts/Ubuntu-Regular.ttf) format("truetype");
 }
 
-.font-ubuntu {
-    font-family: "Ubuntu", sans-serif;
-}
-
 @font-face {
     /* https://fonts.google.com/specimen/Special+Elite */
     font-family: "Special Elite";
@@ -18,27 +14,31 @@
     src: local("Special Elite Regular"), local("SpecialElite-Regular"), url(../webfonts/SpecialElite-Regular.ttf) format("truetype");
 }
 
-.font-special-elite {
+body {
+    font-family: "Ubuntu", sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
     font-family: "Special Elite", cursive;
+}
+
+main h4 {
+    padding-top: 2rem;
+    padding-bottom: 1rem;
+    margin-left: -1rem;
 }
 
 .bg-black {
     background-color: black;
 }
 
-.bg-sepia {
+.sepia {
     background-color: #f8f9f0; /* default "light" is #f8f9fa */
-}
-
-.text-sepia {
     color: #683a40; /* default "dark" is #343a40 */
 }
 
-.bg-leather {
+.leather {
     background-color: #2e1e0f;
-}
-
-.text-leather {
     color: #b9a394;
 }
 

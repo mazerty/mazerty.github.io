@@ -2,11 +2,10 @@
 layout: writing
 title: "Nerevarine"
 subtitle: 'a <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind">The Elder Scrolls III: Morrowind</a> fiction'
-body-classes: "bg-leather text-leather"
+body-classes: "leather"
 nav-classes: "navbar-light bg-light"
 ---
-Spoiler warning: this fiction closely follows the story of the game and both its extensions, you'd better not read if you want to discover it by yourself.
-{: .text-muted-custom}
+_Spoiler warning: this fiction closely follows the story of the game and both its extensions, you'd better not read if you want to discover it by yourself._
 
 #### 3E 427, 16 Last Seed (Day 1), 11 a.m.
 
