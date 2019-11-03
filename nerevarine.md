@@ -8,6 +8,8 @@ nav-classes: "navbar-light bg-light"
 Spoiler warning: this fiction closely follows the story of the game and both its extensions, you'd better not read if you want to discover it by yourself.
 {: .text-muted-custom}
 
+#### 3E 427, 16 Last Seed (Day 1), 11 a.m.
+
 Fresh start, fresh diary.
 I'll have to check the shack for the old one though.
 If I manage to get back to Cyrodiil that is.
