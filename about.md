@@ -1,8 +1,6 @@
 ---
 layout: page
 title: "About"
-body-classes: "bg-dark text-light"
-nav-classes: "navbar-light bg-light"
 ---
 Powered by [Jekyll](https://jekyllrb.com), [Bootstrap](https://getbootstrap.com), [Font Awesome](https://fontawesome.com), [jQuery](https://jquery.com), [Google Fonts](https://fonts.google.com), and hosted on [GitHub Pages](https://pages.github.com).
 

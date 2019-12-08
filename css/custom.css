@@ -28,18 +28,8 @@ main h4 {
     margin-left: -1rem;
 }
 
-.bg-black {
-    background-color: black;
-}
-
-.sepia {
-    background-color: #f8f9f0; /* default "light" is #f8f9fa */
-    color: #683a40; /* default "dark" is #343a40 */
-}
-
-.leather {
-    background-color: #2e1e0f;
-    color: #b9a394;
+.text-custom {
+    color: #e8e9ea; /* default "text-light" is #f8f9fa */
 }
 
 .text-muted-custom {

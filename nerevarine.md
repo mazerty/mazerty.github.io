@@ -2,8 +2,6 @@
 layout: writing
 title: "Nerevarine"
 subtitle: 'a <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind">The Elder Scrolls III: Morrowind</a> fiction'
-body-classes: "leather"
-nav-classes: "navbar-light bg-light"
 ---
 _Spoiler warning: this fiction closely follows the story of the game and both its extensions, you'd better not read if you want to discover it by yourself._
 

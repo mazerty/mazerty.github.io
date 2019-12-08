@@ -2,8 +2,6 @@
 layout: writing
 title: "Fool's Errand"
 subtitle: "#WorkInProgress"
-body-classes: "bg-dark text-light"
-nav-classes: "navbar-light bg-light"
 ---
 The roar is now deafening, punctuated by distant _cracks_ that send tremors through the ice.
 Beneath me, at the mouth of the crevice, one can actually see the current eating away at the walls.

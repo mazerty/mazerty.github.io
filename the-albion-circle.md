@@ -2,8 +2,6 @@
 layout: writing
 title: "The Albion Circle"
 subtitle: 'a <a href="https://store.steampowered.com/app/236850">Europa Universalis 4</a> fiction'
-body-classes: "sepia"
-nav-classes: "navbar-dark bg-dark"
 ---
 _This is a transcript of documents found when the fire that destroyed
 the Birmingham Central Library in January 1879 revealed a safe room hidden in the basement._
