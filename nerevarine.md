@@ -19,3 +19,8 @@ I spent a couple of months in jail, then got woken up one morning by a bunch of 
 I fought them, only to get clubbed and knocked out.
 When I came to, I was in the hold of some ship, together with a Dunmer called Jiub who told me we just reached Morrowind.
 I can't believe I was unconscious the whole trip!
+
+Anyway, nothing made sense.
+We docked at some swampy town called Seyda Neen, where an Imperial official told me I had been pardoned by the Emperor himself.
+Then some big shot knight gave me a fair amount of coins and ordered me to report to someone else, but didn't know exactly where I could find him.
+Now I'm at the local tavern, raising my glass to the efficiency of the Imperial administration.
