@@ -46,24 +46,10 @@ main h4 {
     opacity: 0.5; /* that way the text color is inherited, but then *everything* is opacified */
 }
 
-.center {
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
-
 .pt-custom {
     padding-top: 5rem;
 }
 
 a, a:hover {
     color: inherit;
-}
-
-.credit {
-    width: 512px;
-    bottom: 0;
-    left: 50%;
-    transform: translateX(-50%);
-    text-align: center;
 }
