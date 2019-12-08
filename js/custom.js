@@ -4,7 +4,3 @@ WebFont.load({
         urls: ["css/custom.css", "css/fontawesome-all.css"]
     }
 });
-
-$(window).on("load", function () {
-    $("body").addClass("fade-in").removeClass("d-none");
-});

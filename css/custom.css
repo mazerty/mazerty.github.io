@@ -56,19 +56,6 @@ main h4 {
     padding-top: 5rem;
 }
 
-@keyframes fade {
-    from {
-        opacity: 0;
-    }
-    to {
-        opacity: 1;
-    }
-}
-
-.fade-in {
-    animation: fade 1s forwards;
-}
-
 a, a:hover {
     color: inherit;
 }
