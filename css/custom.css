@@ -25,7 +25,7 @@ h1, h2, h3, h4, h5, h6 {
 main h4 {
     padding-top: 2rem;
     padding-bottom: 1rem;
-    margin-left: -1rem;
+    margin-left: -0.5rem;
 }
 
 .text-custom {
