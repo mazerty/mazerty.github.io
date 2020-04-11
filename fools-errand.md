@@ -19,5 +19,21 @@ The current hits me from below, in a rush so sudden I almost pass out.
 For what seems like an eternity all I can see is a blur of walls flashing around me, sometimes so close I can touch them.
 Then I'm ... _out_.
 
-_Work in progress_
-{: .text-muted-custom}
+Oh the cold !
+At first I can't seem to see anything, but then ...
+This is amazing !
+The ice ... is _below_ !
+And is curved !
+It's a globe !
+I knew it !
+And there's more !
+Black empty space is filled with shiny, sparkling dots.
+And there is this brilliant stripe all around...
+And finally, to my right ... I don't think anyone can imagine something this big.
+A huge yellow ... bubble of ...
+But I've run out of time.
+I won't be able to tell anyone.
+This is what I've been yearning for all my life.
+This is why I just couldn't sit nice and tight with you.
+I wish you would see this.
+I wish you would see me.
