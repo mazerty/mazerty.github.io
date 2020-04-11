@@ -43,3 +43,39 @@ h1, h2, h3, h4, h5, h6 {
 a, a:hover {
     color: inherit;
 }
+
+#profile-picture {
+    max-width: 15rem;
+    max-height: 15rem;
+    padding-bottom: 2rem;
+}
+
+.progress {
+    height: 3px;
+    margin-top: -0.1rem;
+}
+
+
+@media (min-width: 576px) {
+    .card-columns {
+        column-count: 2;
+    }
+}
+
+@media (min-width: 768px) {
+    .card-columns {
+        column-count: 3;
+    }
+}
+
+@media (min-width: 992px) {
+    .card-columns {
+        column-count: 4;
+    }
+}
+
+@media (min-width: 1200px) {
+    .card-columns {
+        column-count: 5;
+    }
+}

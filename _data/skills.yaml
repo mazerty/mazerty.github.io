@@ -1,0 +1,54 @@
+---
+- category: Java
+  skills:
+    - { name: Spring, score: 80 }
+    - { name: Maven, score: 80 }
+    - { name: JUnit, score: 80 }
+    - { name: Vaadin, score: 80 }
+    - { name: MyBatis, score: 80 }
+    - { name: jOOQ, score: 60 }
+    - { name: DbUnit, score: 60 }
+    - { name: Wildfly, score: 60 }
+    - { name: Tomcat, score: 60 }
+    - { name: CDI, score: 80 }
+    - { name: Flyway, score: 80 }
+- category: Python
+  skills:
+    - { name: Pip, score: 40 }
+    - { name: virtualenv, score: 70 }
+    - { name: unittest, score: 30 }
+    - { name: testinfra, score: 20 }
+- category: Front
+  skills:
+    - { name: Javascript, score: 40 }
+    - { name: JQuery, score: 20 }
+    - { name: Bootstrap, score: 60 }
+    - { name: Angular, score: 30 }
+    - { name: VueJS, score: 20 }
+- category: Data
+  skills:
+    - { name: SQL, score: 90 }
+    - { name: Oracle, score: 70 }
+    - { name: PostgreSQL, score: 70 }
+    - { name: MySQL, score: 60 }
+    - { name: YAML, score: 80 }
+    - { name: JSON, score: 90 }
+- category: System
+  skills:
+    - { name: Redhat/Centos, score: 50 }
+    - { name: Ubuntu/Debian, score: 80 }
+    - { name: Ansible, score: 70 }
+    - { name: Molecule, score: 30 }
+    - { name: Docker, score: 70 }
+    - { name: Bash, score: 90 }
+    - { name: LXD, score: 90 }
+    - { name: RHV, score: 50 }
+    - { name: KVM, score: 50 }
+    - { name: Virtualbox, score: 90 }
+    - { name: Networking, score: 70 }
+- category: Tools
+  skills:
+    - { name: Jenkins, score: 50 }
+    - { name: Git, score: 90 }
+    - { name: IntelliJ, score: 70 }
+    - { name: Nginx, score: 60 }
