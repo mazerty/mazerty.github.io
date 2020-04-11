@@ -22,4 +22,5 @@ First, we agreed on a set of rules to help us strive for discipline, efficiency 
   * Forts will either be fully maintained and garrisoned or be razed to the ground. In case of capture by the enemy, they can be more of a liability than an asset.
 * Corruption is probably the most dangerous disease in any civilized society. As such, it will be rooted out at all costs if found in our administration. In dire straits, it can be used as a last resort, sparingly and in a controlled manner.
 
-_Transcription in progress._
+_Work in progress_
+{: .text-muted-custom}

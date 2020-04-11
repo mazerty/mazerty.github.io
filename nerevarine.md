@@ -24,3 +24,6 @@ Anyway, nothing made sense.
 We docked at some swampy town called Seyda Neen, where an Imperial official told me I had been pardoned by the Emperor himself.
 Then some big shot knight gave me a fair amount of coins and ordered me to report to someone else, but didn't know exactly where I could find him.
 Now I'm at the local tavern, raising my glass to the efficiency of the Imperial administration.
+
+_Work in progress_
+{: .text-muted-custom}
