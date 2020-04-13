@@ -57,6 +57,10 @@ a, a:hover {
 
 
 @media (min-width: 576px) {
+    .min-vh-80 {
+        min-height: 80vh;
+    }
+
     .card-columns {
         column-count: 2;
     }
