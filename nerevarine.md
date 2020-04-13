@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: article
 title: "Nerevarine"
 subtitle: 'a <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind">The Elder Scrolls III: Morrowind</a> fiction'
 ---

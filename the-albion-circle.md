@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: article
 title: "The Albion Circle"
 subtitle: 'a <a href="https://store.steampowered.com/app/236850">Europa Universalis 4</a> fiction'
 ---

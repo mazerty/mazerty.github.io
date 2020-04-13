@@ -1,5 +1,5 @@
 ---
-layout: writing
+layout: article
 title: "Fool's Errand"
 ---
 The roar is now deafening, punctuated by distant _cracks_ that send tremors through the ice.

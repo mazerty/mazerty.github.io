@@ -1,7 +1,17 @@
 ---
-layout: page
+layout: default
 ---
-{{ content }}
+<header class="text-center py-5">
+    <h1>{{ page.title }}</h1>
+    {%- if page.subtitle -%}<h4 class="text-muted-custom">{{ page.subtitle }}</h4>{%- endif -%}
+</header>
+<main class="container">
+    <div class="row">
+        <div class="col col-lg-8 col-md-10 mx-auto text-justify">
+            {{ content }}
+        </div>
+    </div>
+</main>
 <footer class="text-center text-muted-custom small pt-custom">
     <i class="fab fa-creative-commons"></i> <i class="fab fa-creative-commons-by"></i> <i class="fab fa-creative-commons-nc"></i> <i class="fab fa-creative-commons-sa"></i><br>
     This work is licensed under the <a href="http://creativecommons.org/licenses/by-nc-sa/4.0">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
