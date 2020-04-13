@@ -1,54 +1,71 @@
 ---
 - name: Java
   skills:
+    - { name: Java 11, score: 90 }
+    - { name: Maven, score: 90 }
     - { name: Spring, score: 80 }
-    - { name: Maven, score: 80 }
-    - { name: JUnit, score: 80 }
+    - { name: CDI, score: 70 }
+    - { name: MyBatis, score: 90 }
+    - { name: jOOQ, score: 70, like: true }
+    - { name: DbMaintain, score: 90 }
+    - { name: Flyway, score: 70 }
+    - { name: WildFly, score: 80 }
+    - { name: Tomcat, score: 70 }
+    - { name: JUnit 4, score: 70 }
+    - { name: DbUnit, score: 80 }
+    - { name: Mockito, score: 70 }
     - { name: Vaadin, score: 80 }
-    - { name: MyBatis, score: 80 }
-    - { name: jOOQ, score: 60 }
-    - { name: DbUnit, score: 60 }
-    - { name: Wildfly, score: 60 }
-    - { name: Tomcat, score: 60 }
-    - { name: CDI, score: 80 }
-    - { name: Flyway, score: 80 }
 - name: Python
   skills:
-    - { name: Pip, score: 40 }
+    - { name: Python 3, score: 70 }
+    - { name: pip, score: 60 }
     - { name: virtualenv, score: 70 }
-    - { name: unittest, score: 30 }
-    - { name: testinfra, score: 20 }
+    - { name: unittest, score: 50 }
 - name: Front
   skills:
-    - { name: Javascript, score: 40 }
-    - { name: JQuery, score: 20 }
-    - { name: Bootstrap, score: 60 }
-    - { name: Angular, score: 30 }
-    - { name: VueJS, score: 20 }
+    - { name: HTML 5, score: 80 }
+    - { name: CSS 3, score: 70 }
+    - { name: JavaScript, score: 50 }
+    - { name: Bootstrap, score: 70 }
 - name: Data
   skills:
+    - { name: Oracle, score: 80 }
+    - { name: PostgreSQL, score: 70, like: true }
     - { name: SQL, score: 90 }
-    - { name: Oracle, score: 70 }
-    - { name: PostgreSQL, score: 70 }
-    - { name: MySQL, score: 60 }
-    - { name: YAML, score: 80 }
-    - { name: JSON, score: 90 }
 - name: System
   skills:
-    - { name: Redhat/Centos, score: 50 }
-    - { name: Ubuntu/Debian, score: 80 }
-    - { name: Ansible, score: 70 }
-    - { name: Molecule, score: 30 }
+    - { name: Ubuntu, score: 80, like: true }
+    - { name: RHEL, score: 60 }
+    - { name: Ansible, score: 80 }
+    - { name: Molecule, score: 60, like: true }
+    - { name: LXD, score: 80, like: true }
     - { name: Docker, score: 70 }
-    - { name: Bash, score: 90 }
-    - { name: LXD, score: 90 }
-    - { name: RHV, score: 50 }
-    - { name: KVM, score: 50 }
-    - { name: Virtualbox, score: 90 }
-    - { name: Networking, score: 70 }
+    - { name: Kubernetes, score: 50 }
+    - { name: VirtualBox, score: 90 }
+    - { name: KVM, score: 60, like: true }
+    - { name: iptables, score: 70 }
+    - { name: Nginx, score: 70 }
+- name: Cloud
+  skills:
+    - { name: AWS, score: 70 }
+    - { name: OpenStack, score: 50, like: true }
 - name: Tools
   skills:
-    - { name: Jenkins, score: 50 }
-    - { name: Git, score: 90 }
-    - { name: IntelliJ, score: 70 }
-    - { name: Nginx, score: 60 }
+    - { name: Git, score: 90, like: true }
+    - { name: IntelliJ, score: 80, like: true }
+    - { name: Jenkins, score: 60 }
+    - { name: Terraform, score: 60 }
+    - { name: Vagrant, score: 60 }
+- name: Practices
+  skills:
+    - { name: Agile, score: 80, like: true }
+    - { name: DevOps, score: 70, like: true }
+    - { name: Design patterns, score: 80 }
+    - { name: Testing, score: 80 }
+    - { name: Open source, like: true }
+    - { name: K.I.S.S., like: true }
+- name: Languages
+  skills:
+    - { name: French, score: 90 }
+    - { name: English, score: 80, like: true }
+    - { name: German, score: 60 }
