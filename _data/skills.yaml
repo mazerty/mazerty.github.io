@@ -1,5 +1,5 @@
 ---
-- category: Java
+- name: Java
   skills:
     - { name: Spring, score: 80 }
     - { name: Maven, score: 80 }
@@ -12,20 +12,20 @@
     - { name: Tomcat, score: 60 }
     - { name: CDI, score: 80 }
     - { name: Flyway, score: 80 }
-- category: Python
+- name: Python
   skills:
     - { name: Pip, score: 40 }
     - { name: virtualenv, score: 70 }
     - { name: unittest, score: 30 }
     - { name: testinfra, score: 20 }
-- category: Front
+- name: Front
   skills:
     - { name: Javascript, score: 40 }
     - { name: JQuery, score: 20 }
     - { name: Bootstrap, score: 60 }
     - { name: Angular, score: 30 }
     - { name: VueJS, score: 20 }
-- category: Data
+- name: Data
   skills:
     - { name: SQL, score: 90 }
     - { name: Oracle, score: 70 }
@@ -33,7 +33,7 @@
     - { name: MySQL, score: 60 }
     - { name: YAML, score: 80 }
     - { name: JSON, score: 90 }
-- category: System
+- name: System
   skills:
     - { name: Redhat/Centos, score: 50 }
     - { name: Ubuntu/Debian, score: 80 }
@@ -46,7 +46,7 @@
     - { name: KVM, score: 50 }
     - { name: Virtualbox, score: 90 }
     - { name: Networking, score: 70 }
-- category: Tools
+- name: Tools
   skills:
     - { name: Jenkins, score: 50 }
     - { name: Git, score: 90 }

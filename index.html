@@ -2,41 +2,41 @@
 layout: default
 ---
 <div class="container">
-    <div class="d-flex align-items-center min-vh-80">
-        <div class=" w-100">
-            <header class="text-center py-5">
-                <img id="profile-picture" src="media/profile.png" class="rounded-circle" alt="profile picture">
-                <h1>Thomas JOUANNOT</h1>
-                <h4 class="text-muted-custom">senior java/python developer</h4>
-                <h4 class="text-muted-custom">junior cloud/container architect</h4>
-            </header>
-            <main class="container resume-collapse collapse" id="resume-main">
-                <div class="row">
-                    <div class="col col-lg-10 mx-auto text-justify">
-                        <h2>Skills</h2>
-                        <div class="card-columns">
-                            {% for category in site.data.skills %}
-                            <div class="card bg-dark border-secondary">
-                                <div class="card-header border-secondary">
-                                    <div>{{ category.category }}</div>
+    <div class="row min-vh-sm-80 align-items-center">
+        <div class="col">
+            <div class="row">
+                <div class="col text-center">
+                    <img id="profile-picture" class="rounded-circle" src="media/profile.png" alt="profile picture">
+                    <h1>Thomas JOUANNOT</h1>
+                    <h4 class="text-muted-custom">senior java/python developer</h4>
+                    <h4 class="text-muted-custom">junior cloud/container architect</h4>
+                </div>
+            </div>
+            <div id="resume-main" class="row resume-collapse collapse">
+                <div class="col col-10 mx-auto">
+                    <h2>Skills</h2>
+                    <div class="card-columns">
+                        {% for category in site.data.skills %}
+                        <div class="card bg-dark border-secondary">
+                            <div class="card-header border-secondary">{{ category.name }}</div>
+                            <div class="card-body">
+                                {% for skill in category.skills %}
+                                <span>{{ skill.name }}</span>
+                                <div class="progress bg-dark">
+                                    <div class="progress-bar bg-secondary" role="progressbar" style="width: {{ skill.score }}%" aria-valuenow="{{ skill.score }}" aria-valuemin="0" aria-valuemax="100"></div>
                                 </div>
-                                <div class="card-body">
-                                    {% for skill in category.skills %}
-                                    <div>{{ skill.name }}</div>
-                                    <div class="progress bg-transparent">
-                                        <div class="progress-bar bg-secondary" role="progressbar" style="width: {{ skill.score }}%" aria-valuenow="{{ skill.score }}" aria-valuemin="0" aria-valuemax="100"></div>
-                                    </div>
-                                    {% endfor %}
-                                </div>
+                                {% endfor %}
                             </div>
-                            {% endfor %}
                         </div>
+                        {% endfor %}
                     </div>
                 </div>
-            </main>
-            <footer class="text-center">
-                <button class="btn btn-outline-light resume-collapse collapse show" data-toggle="collapse" data-target=".resume-collapse" aria-expanded="false" aria-controls="resume-main resume-button" id="resume-button">Resume</button>
-            </footer>
+            </div>
+            <div id="resume-footer" class="row resume-collapse collapse show">
+                <div class="col text-center">
+                    <button class="btn btn-outline-light" data-toggle="collapse" data-target=".resume-collapse" aria-controls="resume-main resume-footer" aria-expanded="false">Resume</button>
+                </div>
+            </div>
         </div>
     </div>
 </div>

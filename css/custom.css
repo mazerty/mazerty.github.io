@@ -50,36 +50,40 @@ a, a:hover {
     padding-bottom: 2rem;
 }
 
-.progress {
+#resume-main h2 {
+    margin-top: 2rem;
+}
+
+#resume-main .progress {
     height: 3px;
     margin-top: -0.1rem;
 }
 
 
 @media (min-width: 576px) {
-    .min-vh-80 {
+    .min-vh-sm-80 {
         min-height: 80vh;
     }
 
-    .card-columns {
+    #resume-main .card-columns {
         column-count: 2;
     }
 }
 
 @media (min-width: 768px) {
-    .card-columns {
+    #resume-main .card-columns {
         column-count: 3;
     }
 }
 
 @media (min-width: 992px) {
-    .card-columns {
+    #resume-main .card-columns {
         column-count: 4;
     }
 }
 
 @media (min-width: 1200px) {
-    .card-columns {
+    #resume-main .card-columns {
         column-count: 5;
     }
 }
