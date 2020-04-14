@@ -62,6 +62,7 @@
     - { name: DevOps, score: 70, like: true }
     - { name: Design patterns, score: 80 }
     - { name: Testing, score: 80 }
+    - { name: Training, score: 70 }
     - { name: Open source, like: true }
     - { name: K.I.S.S., like: true }
 - name: Languages
