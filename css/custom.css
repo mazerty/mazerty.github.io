@@ -40,6 +40,10 @@ h1, h2, h3, h4, h5, h6 {
     padding-top: 5rem;
 }
 
+.min-vh-80 {
+    min-height: 80vh;
+}
+
 a, a:hover {
     color: inherit;
 }
@@ -62,10 +66,6 @@ a, a:hover {
 
 
 @media (min-width: 576px) {
-    .min-vh-sm-80 {
-        min-height: 80vh;
-    }
-
     #resume-main .card-columns {
         column-count: 2;
     }
