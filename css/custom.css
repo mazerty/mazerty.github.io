@@ -64,10 +64,6 @@ a, a:hover {
     margin-bottom: 0.1rem;
 }
 
-#resume-main .card {
-    margin-bottom: 0.75rem;
-}
-
 @media (min-width: 576px) {
     #resume-main .card-columns {
         column-count: 2;

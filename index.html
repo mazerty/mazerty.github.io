@@ -42,9 +42,24 @@ layout: default
                     <div class="card bg-dark border-secondary">
                         <div class="card-header border-secondary d-flex flex-column flex-sm-row">
                             <div>RHCSA Rapid Track Course (<a href="https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course">RH199</a>)</div>
-                            <div class="text-muted-custom ml-sm-auto">october 2019</div>
+                            <div class="text-muted-custom ml-sm-auto">2019/10</div>
                         </div>
                         <div class="card-body">Red Hat System Administration I and II consolidated over 4 days, targeting RHEL 8.</div>
+                    </div>
+                    <h2>Experience</h2>
+                    <div class="accordion">
+                        {% for experience in site.data.experience %}
+                        <div class="card bg-dark border-secondary">
+                            <div class="card-header border-secondary d-flex flex-row">
+                                {% if experience.role %}
+                                <div>{{ experience.role }}</div>
+                                {% else %}
+                                <div class="text-muted-custom">Sabbatical</div>
+                                {% endif %}
+                                <div class="text-muted-custom ml-auto">{{ experience.dates }}</div>
+                            </div>
+                        </div>
+                        {% endfor %}
                     </div>
                     <h2>Education</h2>
                     <div class="row">
