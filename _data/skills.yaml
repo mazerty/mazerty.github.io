@@ -15,23 +15,32 @@
     - { name: DbUnit, score: 75 }
     - { name: Mockito, score: 60 }
     - { name: Vaadin, score: 75 }
+  todos:
+    - { name: Gradle }
+    - { name: Vert.x }
 - name: Python
   skills:
-    - { name: Python 3, score: 60 }
+    - { name: Python 3, score: 60, like: true }
     - { name: pip, score: 45 }
     - { name: virtualenv, score: 60 }
     - { name: unittest, score: 30 }
+  todos:
+    - { name: Web frameworks }
 - name: Front
   skills:
     - { name: HTML 5, score: 75 }
     - { name: CSS 3, score: 60 }
     - { name: JavaScript, score: 30 }
     - { name: Bootstrap, score: 60 }
+  todos:
+    - { name: VueJS, like: true }
 - name: Data
   skills:
     - { name: Oracle, score: 75 }
     - { name: PostgreSQL, score: 60, like: true }
     - { name: SQL, score: 90 }
+  todos:
+    - { name: Kafka, like: true }
 - name: System
   skills:
     - { name: Ubuntu, score: 75, like: true }
@@ -45,10 +54,16 @@
     - { name: KVM, score: 45, like: true }
     - { name: iptables, score: 60 }
     - { name: Nginx, score: 60 }
+  todos:
+    - { name: containerd }
+    - { name: Podman }
+    - { name: Rancher }
 - name: Cloud
   skills:
     - { name: AWS, score: 60 }
     - { name: OpenStack, score: 30, like: true }
+  todos:
+    - { name: DigitalOcean }
 - name: Tools
   skills:
     - { name: Git, score: 90, like: true }
@@ -56,6 +71,10 @@
     - { name: Jenkins, score: 45 }
     - { name: Terraform, score: 45 }
     - { name: Vagrant, score: 45 }
+  todos:
+    - { name: Prometheus, like: true }
+    - { name: Eclipse Che }
+    - { name: pfSense }
 - name: Practices
   skills:
     - { name: Agile, score: 75, like: true }
@@ -65,8 +84,12 @@
     - { name: Training, score: 60 }
     - { name: Open source, like: true }
     - { name: K.I.S.S., like: true }
+  todos:
+    - { name: Observability }
 - name: Languages
   skills:
     - { name: French, score: 90 }
     - { name: English, score: 75, like: true }
     - { name: German, score: 45 }
+  todos:
+    - { name: Japanese, like: true }

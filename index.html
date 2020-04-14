@@ -14,20 +14,26 @@ layout: default
             </div>
             <div id="resume-main" class="row resume-collapse collapse">
                 <div class="col col-10 mx-auto">
-                    <h2>Skills</h2>
+                    <h2>Skills <span class="text-muted-custom">+ todo</span></h2>
                     <div class="card-columns">
                         {% for category in site.data.skills %}
                         <div class="card bg-dark border-secondary">
                             <div class="card-header border-secondary">{{ category.name }}</div>
                             <div class="card-body">
                                 {% for skill in category.skills %}
-                                <span>{{ skill.name }}{% if skill.like %} <i class="far fa-heart text-danger"></i>{% endif %}</span>
+                                <div>{{ skill.name }}{% if skill.like %} <i class="far fa-heart text-danger"></i>{% endif %}</div>
                                 <div class="progress bg-dark">
                                     {% if skill.score %}
                                     <div class="progress-bar bg-secondary" role="progressbar" style="width: {{ skill.score }}%" aria-valuenow="{{ skill.score }}" aria-valuemin="0" aria-valuemax="100"></div>
                                     {% endif %}
                                 </div>
                                 {% endfor %}
+                                {% if category.todos %}
+                                <div class="m-2"></div>
+                                {% for todo in category.todos %}
+                                <div class="text-muted-custom">{{ todo.name }}{% if todo.like %} <i class="far fa-heart"></i>{% endif %}</div>
+                                {% endfor %}
+                                {% endif %}
                             </div>
                         </div>
                         {% endfor %}
