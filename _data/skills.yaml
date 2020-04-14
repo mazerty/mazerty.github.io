@@ -44,7 +44,8 @@
 - name: System
   skills:
     - { name: Ubuntu, score: 75, like: true }
-    - { name: RHEL, score: 45 }
+    - { name: RHEL 8, score: 60 }
+    - { name: RHEL 7, score: 45 }
     - { name: Ansible, score: 75 }
     - { name: Molecule, score: 45, like: true }
     - { name: LXD, score: 75, like: true }
