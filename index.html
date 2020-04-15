@@ -3,91 +3,85 @@ layout: default
 ---
 <div class="container">
     <div class="row min-vh-80 align-items-center">
-        <div class="col">
-            <div class="row">
-                <div class="col text-center">
-                    <img id="profile-picture" class="rounded-circle" src="media/profile.png" alt="profile picture">
-                    <h1>Thomas JOUANNOT</h1>
-                    <h4 class="text-muted-custom">senior java/python developer</h4>
-                    <h4 class="text-muted-custom">junior cloud/container architect</h4>
-                </div>
+        <div class="col col-10 mx-auto">
+            <div class="text-center">
+                <img id="profile-picture" class="rounded-circle" src="media/profile.png" alt="profile picture">
+                <h1>Thomas JOUANNOT</h1>
+                <h4 class="text-muted-custom">senior java/python developer</h4>
+                <h4 class="text-muted-custom">junior cloud/container architect</h4>
             </div>
-            <div id="resume-main" class="row resume-collapse collapse">
-                <div class="col col-10 mx-auto">
-                    <h2>Skills <span class="text-muted-custom">+ todo</span></h2>
-                    <div class="card-columns">
-                        {% for category in site.data.skills %}
-                        <div class="card bg-dark border-secondary">
-                            <div class="card-header border-secondary">{{ category.name }}</div>
-                            <div class="card-body">
-                                {% for skill in category.skills %}
-                                <div>{{ skill.name }}{% if skill.like %} <i class="far fa-heart text-danger"></i>{% endif %}</div>
-                                <div class="progress bg-dark">
-                                    {% if skill.score %}
-                                    <div class="progress-bar bg-secondary" role="progressbar" style="width: {{ skill.score }}%" aria-valuenow="{{ skill.score }}" aria-valuemin="0" aria-valuemax="100"></div>
-                                    {% endif %}
-                                </div>
-                                {% endfor %}
-                                {% if category.todos %}
-                                <div class="m-2"></div>
-                                {% for todo in category.todos %}
-                                <div class="text-muted-custom">{{ todo.name }}{% if todo.like %} <i class="far fa-heart"></i>{% endif %}</div>
-                                {% endfor %}
-                                {% endif %}
-                            </div>
-                        </div>
-                        {% endfor %}
-                    </div>
-                    <h2>Training</h2>
+            <div id="resume-main" class="resume-collapse collapse">
+                <h2>Skills <span class="text-muted-custom">+ todo</span></h2>
+                <div class="card-columns">
+                    {% for category in site.data.skills %}
                     <div class="card bg-dark border-secondary">
-                        <div class="card-header border-secondary d-flex flex-column flex-sm-row">
-                            <div>RHCSA Rapid Track Course (<a href="https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course">RH199</a>)</div>
-                            <div class="text-muted-custom ml-sm-auto">2019/10</div>
-                        </div>
-                        <div class="card-body">Red Hat System Administration I and II consolidated over 4 days, targeting RHEL 8.</div>
-                    </div>
-                    <h2>Experience</h2>
-                    <div class="accordion">
-                        {% for experience in site.data.experience %}
-                        <div class="card bg-dark border-secondary">
-                            <div class="card-header border-secondary d-flex flex-row">
-                                {% if experience.role %}
-                                <div>{{ experience.role }}</div>
-                                {% else %}
-                                <div class="text-muted-custom">Sabbatical</div>
+                        <div class="card-header border-secondary">{{ category.name }}</div>
+                        <div class="card-body">
+                            {% for skill in category.skills %}
+                            <div>{{ skill.name }}{% if skill.like %} <i class="far fa-heart text-danger"></i>{% endif %}</div>
+                            <div class="progress bg-dark">
+                                {% if skill.score %}
+                                <div class="progress-bar bg-secondary" role="progressbar" style="width: {{ skill.score }}%" aria-valuenow="{{ skill.score }}" aria-valuemin="0" aria-valuemax="100"></div>
                                 {% endif %}
-                                <div class="text-muted-custom ml-auto">{{ experience.dates }}</div>
                             </div>
+                            {% endfor %}
+                            {% if category.todos %}
+                            <div class="m-2"></div>
+                            {% for todo in category.todos %}
+                            <div class="text-muted-custom">{{ todo.name }}{% if todo.like %} <i class="far fa-heart"></i>{% endif %}</div>
+                            {% endfor %}
+                            {% endif %}
                         </div>
-                        {% endfor %}
                     </div>
-                    <h2>Education</h2>
-                    <div class="row">
-                        <div class="col col-12 col-lg-6">
-                            <div class="card bg-dark border-secondary">
-                                <div class="card-header border-secondary d-flex flex-column flex-sm-row">
-                                    <div>DUT Informatique</div>
-                                    <div class="text-muted-custom ml-sm-auto">2005</div>
-                                </div>
-                                <div class="card-body">Option Génie Informatique<br>IUT Lyon I @ Villeurbanne, France</div>
-                            </div>
+                    {% endfor %}
+                </div>
+                <h2>Training</h2>
+                <div class="card bg-dark border-secondary">
+                    <div class="card-header border-secondary d-flex flex-column flex-sm-row">
+                        <div>RHCSA Rapid Track Course (<a href="https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course">RH199</a>)</div>
+                        <div class="text-muted-custom ml-sm-auto">2019/10</div>
+                    </div>
+                    <div class="card-body">Red Hat System Administration I and II consolidated over 4 days, targeting RHEL 8.</div>
+                </div>
+                <h2>Experience</h2>
+                <div class="accordion">
+                    {% for experience in site.data.experience %}
+                    <div class="card bg-dark border-secondary">
+                        <div class="card-header border-secondary d-flex flex-row">
+                            {% if experience.role %}
+                            <div>{{ experience.role }}</div>
+                            {% else %}
+                            <div class="text-muted-custom">Sabbatical</div>
+                            {% endif %}
+                            <div class="text-muted-custom ml-auto">{{ experience.dates }}</div>
                         </div>
-                        <div class="col col-12 col-lg-6">
-                            <div class="card bg-dark border-secondary">
-                                <div class="card-header border-secondary d-flex flex-column flex-sm-row">
-                                    <div>Baccalauréat Scientifique</div>
-                                    <div class="text-muted-custom ml-sm-auto">2001</div>
-                                </div>
-                                <div class="card-body">Option SVT<br>Spécialité Physique-Chimie<br>Mention Bien<br>Lycée Montchapet @ Dijon, France</div>
+                    </div>
+                    {% endfor %}
+                </div>
+                <h2>Education</h2>
+                <div class="row">
+                    <div class="col col-12 col-lg-6">
+                        <div class="card bg-dark border-secondary">
+                            <div class="card-header border-secondary d-flex flex-column flex-sm-row">
+                                <div>DUT Informatique</div>
+                                <div class="text-muted-custom ml-sm-auto">2005</div>
                             </div>
+                            <div class="card-body">Option Génie Informatique<br>IUT Lyon I @ Villeurbanne, France</div>
+                        </div>
+                    </div>
+                    <div class="col col-12 col-lg-6">
+                        <div class="card bg-dark border-secondary">
+                            <div class="card-header border-secondary d-flex flex-column flex-sm-row">
+                                <div>Baccalauréat Scientifique</div>
+                                <div class="text-muted-custom ml-sm-auto">2001</div>
+                            </div>
+                            <div class="card-body">Option SVT<br>Spécialité Physique-Chimie<br>Mention Bien<br>Lycée Montchapet @ Dijon, France</div>
                         </div>
                     </div>
                 </div>
             </div>
-            <div id="resume-footer" class="row resume-collapse collapse show">
-                <div class="col text-center mt-3">
-                    <button class="btn btn-outline-light" data-toggle="collapse" data-target=".resume-collapse" aria-controls="resume-main resume-footer" aria-expanded="false">Resume</button>
-                </div>
+            <div id="resume-footer" class="text-center mt-4 resume-collapse collapse show">
+                <button class="btn btn-outline-light" data-toggle="collapse" data-target=".resume-collapse" aria-controls="resume-main resume-footer" aria-expanded="false">Resume</button>
             </div>
         </div>
     </div>
