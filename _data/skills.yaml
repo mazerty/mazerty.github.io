@@ -51,7 +51,6 @@
     - { name: LXD, score: 75, like: true }
     - { name: cloud-init, score: 60, like: true }
     - { name: Docker, score: 60 }
-    - { name: Kubernetes, score: 30 }
     - { name: VirtualBox, score: 90 }
     - { name: KVM, score: 45, like: true }
     - { name: iptables, score: 60 }
@@ -59,6 +58,7 @@
   todos:
     - { name: containerd }
     - { name: Podman }
+    - { name: Kubernetes }
     - { name: Rancher }
 - name: Cloud
   skills:
