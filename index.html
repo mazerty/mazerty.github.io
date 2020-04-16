@@ -51,11 +51,14 @@ layout: default
                     <div class="card bg-dark border-secondary">
                         <div class="card-header border-secondary d-flex flex-column flex-sm-row">
                             {% if experience.role %}
-                            <div>{{ experience.role }}</div>
+                            <div class="mr-auto">{{ experience.role }}</div>
                             {% else %}
-                            <div class="text-muted-custom">Sabbatical</div>
+                            <div class="text-muted-custom mr-auto">Sabbatical</div>
                             {% endif %}
-                            <div class="text-muted-custom ml-sm-auto">{{ experience.dates }}</div>
+                            {% if experience.project %}
+                            <div class="d-none d-lg-block mr-5">{{ experience.project }} @ {{ experience.client }}</div>
+                            {% endif %}
+                            <div class="text-muted-custom text-sm-right" style="width: 9rem;">{{ experience.dates }}</div>
                         </div>
                     </div>
                     {% endfor %}

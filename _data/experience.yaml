@@ -1,26 +1,42 @@
 ---
 - role: DevOps Engineer
   dates: 2019/09 - Present
+  client: Enedis
+  project: ZSEv2
 
-- role: Cloud Architect
+- role: Junior Cloud Architect
   dates: 2019/12
+  client: bioMérieux
+  project: Episeq CS
 
 - role: Senior Developer
   dates: 2018/12 - 2019/08
+  client: Enedis
+  project: LinkyDep
 
-- role: Cloud Architect
+- role: Junior Cloud Architect
   dates: 2018/11
+  client: bioMérieux
+  project: New TechLib
 
 - dates: 2018/06 - 2018/10
 
 - role: Senior Developer
   dates: 2017/10 - 2018/05
+  client: Enedis
+  project: MobileFactory
 
 - role: DevOps Engineer
   dates: 2016/08 - 2017/09
+  client: Enedis
+  project: DevInno
 
 - role: Senior Developer
   dates: 2013/08 - 2016/07
+  client: Enedis
+  project: LinkyDep
 
-- role: Intermediate Developer
+- role: Lead Developer
   dates: 2013/05 - 2013/07
+  client: Tessi
+  project: RIB Converter
