@@ -49,13 +49,13 @@ layout: default
                 <div id="resume-experience" class="accordion">
                     {% for experience in site.data.experience %}
                     <div class="card bg-dark border-secondary">
-                        <div class="card-header border-secondary d-flex flex-row">
+                        <div class="card-header border-secondary d-flex flex-column flex-sm-row">
                             {% if experience.role %}
                             <div>{{ experience.role }}</div>
                             {% else %}
                             <div class="text-muted-custom">Sabbatical</div>
                             {% endif %}
-                            <div class="text-muted-custom ml-auto">{{ experience.dates }}</div>
+                            <div class="text-muted-custom ml-sm-auto">{{ experience.dates }}</div>
                         </div>
                     </div>
                     {% endfor %}
