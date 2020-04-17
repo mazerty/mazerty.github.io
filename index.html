@@ -50,7 +50,7 @@ layout: default
                     {% for experience in site.data.experience %}
                     <div class="card bg-dark border-secondary">
                         {% assign i = i | plus: 1 %}
-                        <a class="card-header border-secondary d-flex flex-column flex-sm-row" data-toggle="collapse" href="#experience{{ i }}" aria-expanded="false" aria-controls="experience{{ i }}">
+                        <a class="card-header border-secondary d-flex flex-column flex-sm-row" data-toggle="collapse" href="#experience{{ i }}" aria-expanded="{% if i == 1 %}true{% else %}false{% endif %}" aria-controls="experience{{ i }}">
                             {% if experience.role %}
                             <div class="mr-auto">{{ experience.role }}</div>
                             {% else %}
@@ -61,7 +61,7 @@ layout: default
                             {% endif %}
                             <div class="text-muted-custom text-sm-right" style="width: 9rem;">{{ experience.dates }}</div>
                         </a>
-                        <div id="experience{{ i }}" class="collapse">
+                        <div id="experience{{ i }}" class="collapse{% if i == 1 %} show{% endif %}">
                             <div class="card-body">dfkqjsdfzdkf qsldfj smdfj sdmf dslj sdfkq dflmk dfmksqjdf mdfjqsdbfj mdfjqdsfj dzkf jsmdlkfq dsfkq dlfkq dslfmkq dmf djfmlk dfjsm</div>
                             <div class="card-footer">dmfqkldjf skdfj sldkf sdlfkj sdfkjs ldfkj sdfkjdlfkjd slfks df</div>
                         </div>
