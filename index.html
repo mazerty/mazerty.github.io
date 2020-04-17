@@ -49,7 +49,8 @@ layout: default
                 <div id="resume-experience" class="accordion">
                     {% for experience in site.data.experience %}
                     <div class="card bg-dark border-secondary">
-                        <div class="card-header border-secondary d-flex flex-column flex-sm-row">
+                        {% assign i = i | plus: 1 %}
+                        <a class="card-header border-secondary d-flex flex-column flex-sm-row" data-toggle="collapse" href="#experience{{ i }}" aria-expanded="false" aria-controls="experience{{ i }}">
                             {% if experience.role %}
                             <div class="mr-auto">{{ experience.role }}</div>
                             {% else %}
@@ -59,6 +60,10 @@ layout: default
                             <div class="d-none d-lg-block mr-5">{{ experience.project }} @ {{ experience.client }}</div>
                             {% endif %}
                             <div class="text-muted-custom text-sm-right" style="width: 9rem;">{{ experience.dates }}</div>
+                        </a>
+                        <div id="experience{{ i }}" class="collapse">
+                            <div class="card-body">dfkqjsdfzdkf qsldfj smdfj sdmf dslj sdfkq dflmk dfmksqjdf mdfjqsdbfj mdfjqdsfj dzkf jsmdlkfq dsfkq dlfkq dslfmkq dmf djfmlk dfjsm</div>
+                            <div class="card-footer">dmfqkldjf skdfj sldkf sdlfkj sdfkjs ldfkj sdfkjdlfkjd slfks df</div>
                         </div>
                     </div>
                     {% endfor %}
