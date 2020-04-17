@@ -54,7 +54,7 @@ layout: default
                             {% if experience.title %}
                             <div class="mr-auto">{{ experience.title }}</div>
                             {% else %}
-                            <div class="text-muted-custom mr-auto">Sabbatical</div>
+                            <div class="font-italic mr-auto">Sabbatical</div>
                             {% endif %}
                             {% if experience.project %}
                             <div class="d-none d-lg-block mr-5">{{ experience.project }} @ {{ experience.company }}</div>
@@ -62,8 +62,20 @@ layout: default
                             <div class="text-muted-custom text-sm-right" style="width: 9rem;">{{ experience.dates }}</div>
                         </a>
                         <div id="experience{{ i }}" class="collapse{% if i == 1 %} show{% endif %}">
-                            <div class="card-body">dfkqjsdfzdkf qsldfj smdfj sdmf dslj sdfkq dflmk dfmksqjdf mdfjqsdbfj mdfjqdsfj dzkf jsmdlkfq dsfkq dlfkq dslfmkq dmf djfmlk dfjsm</div>
-                            <div class="card-footer">dmfqkldjf skdfj sldkf sdlfkj sdfkjs ldfkj sdfkjdlfkjd slfks df</div>
+                            <div class="card-body">
+                                {% if experience.company %}
+                                <div><span class="text-muted-custom">Company:</span> {{ experience.company }}</div>
+                                {% endif %}
+                                {% if experience.project %}
+                                <div><span class="text-muted-custom">Project:</span> {{ experience.project }}{% if experience.project_description %}, {{ experience.project_description }}{% endif %}</div>
+                                {% endif %}
+                                {% if experience.role %}
+                                <div><span class="text-muted-custom">Role:</span> {{ experience.role }}</div>
+                                {% endif %}
+                                {% if experience.objective %}
+                                <div><span class="text-muted-custom">Objective:</span> {{ experience.objective }}</div>
+                                {% endif %}
+                            </div>
                         </div>
                     </div>
                     {% endfor %}

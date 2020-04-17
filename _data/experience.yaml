@@ -3,40 +3,58 @@
   dates: 2019/09 - Present
   company: Enedis
   project: ZSEv2
+  project_description: an OpenStack-based private cloud with full CI/CD suite
+  role: Ansible, Git & Test specialist
+  objective: Learning as much as possible about OpenStack
 
 - title: Junior Cloud Architect
   dates: 2019/12
   company: bioMérieux
   project: Episeq CS
+  project_description: a protein-structure analysis tool for clinical pathogens outbreaks monitoring
+  role: AWS architecture audit
 
 - title: Senior Developer
   dates: 2018/12 - 2019/08
   company: Enedis
   project: LinkyDep
+  project_description: nation-wide deployment system for the Linky Smart Grid
+  role: Mob programming to coach junior developers
 
 - title: Junior Cloud Architect
   dates: 2018/11
   company: bioMérieux
   project: New TechLib
+  project_description: a new documentation management system
+  role: AWS architecture design & developer support
 
-- dates: 2018/06 - 2018/10
+- dates: 2018/06 - 2018/11
+  objective: Working full-time on my side project, <a href="https://github.com/zebr0">zebr0</a>
 
 - title: Senior Developer
   dates: 2017/10 - 2018/05
   company: Enedis
   project: MobileFactory
+  project_description: a small Rapid Application Development team
+  role: Java & Angular development, on-premise & AWS deployment
 
 - title: DevOps Engineer
   dates: 2016/08 - 2017/09
   company: Enedis
   project: DevInno
+  project_description: '"DevOps" Core team'
+  role: managing the projects' CI/CD platform, tool development & deployment, Git specialist
+  objective: Learning as much as possible about system administration
 
 - title: Senior Developer
   dates: 2013/08 - 2016/07
   company: Enedis
   project: LinkyDep
+  project_description: nation-wide deployment system for the Linky Smart Grid
+  role: UI, B2B, batch development & optimization in Java
 
 - title: Lead Developer
   dates: 2013/05 - 2013/07
   company: Tessi
   project: RIB Converter
+  role: Design, Java development & customer validation
