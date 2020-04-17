@@ -64,6 +64,10 @@ a, a:hover {
     margin-bottom: 0.1rem;
 }
 
+#resume-experience a.card-header:hover {
+    text-decoration: none;
+}
+
 @media (min-width: 576px) {
     #resume-skills.card-columns {
         column-count: 2;
