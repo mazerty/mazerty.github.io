@@ -22,6 +22,10 @@ h1, h2, h3, h4, h5, h6 {
     font-family: "Special Elite", cursive;
 }
 
+h2 {
+    margin-top: 2rem;
+}
+
 .markdown h4 {
     padding-top: 2rem;
     padding-bottom: 1rem;
@@ -48,10 +52,6 @@ a, a:hover {
     max-width: 15rem;
     max-height: 15rem;
     padding-bottom: 2rem;
-}
-
-#resume-main h2 {
-    margin-top: 2rem;
 }
 
 #resume-skills .progress {
