@@ -36,18 +36,6 @@ layout: default
                     {% endfor %}
                 </div>
             </section>
-            <section id="resume-training">
-                <h2>Training</h2>
-                <div class="card-columns">
-                    <div class="card bg-dark border-secondary">
-                        <div class="card-header border-secondary d-flex flex-column flex-sm-row">
-                            <div>RHCSA Rapid Track Course (<a href="https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course">RH199</a>)</div>
-                            <div class="text-muted-custom ml-sm-auto">2019/10</div>
-                        </div>
-                        <div class="card-body">Red Hat System Administration I and II consolidated over 4 days, targeting RHEL 8.</div>
-                    </div>
-                </div>
-            </section>
             <section id="resume-experience">
                 <h2>Experience</h2>
                 <div class="accordion">
@@ -85,9 +73,18 @@ layout: default
                     {% endfor %}
                 </div>
             </section>
-            <section id="resume-education">
-                <h2>Education</h2>
-                <div class="card-columns">
+            <section id="resume-training-education">
+                <h2>Training <span class="text-muted-custom">+ education</span></h2>
+                <div id="resume-training" class="card-columns">
+                    <div class="card bg-dark border-secondary">
+                        <div class="card-header border-secondary d-flex flex-column flex-sm-row">
+                            <div>RHCSA Rapid Track Course (<a href="https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course">RH199</a>)</div>
+                            <div class="text-muted-custom ml-sm-auto">2019/10</div>
+                        </div>
+                        <div class="card-body">Red Hat System Administration I and II consolidated over 4 days, targeting RHEL 8.</div>
+                    </div>
+                </div>
+                <div id="resume-education" class="card-columns">
                     <div class="card bg-dark border-secondary">
                         <div class="card-header border-secondary d-flex flex-column flex-sm-row">
                             <div>DUT Informatique</div>
