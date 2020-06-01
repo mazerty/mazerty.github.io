@@ -2,7 +2,7 @@
 layout: default
 ---
 <div class="container">
-    <div class="row min-vh-80 align-items-center">
+    <div class="row">
         <div class="col col-10 mx-auto">
             <div class="text-center">
                 <img id="profile-picture" class="rounded-circle" src="media/profile.png" alt="profile picture">
@@ -10,7 +10,7 @@ layout: default
                 <h4 class="text-muted-custom">senior java/python developer</h4>
                 <h4 class="text-muted-custom">junior cloud/container architect</h4>
             </div>
-            <div id="resume-main" class="resume-collapse collapse">
+            <div id="resume-main">
                 <h2>Skills <span class="text-muted-custom">+ todo</span></h2>
                 <div id="resume-skills" class="card-columns">
                     {% for category in site.data.skills %}
@@ -97,9 +97,6 @@ layout: default
                         <div class="card-body">Option SVT<br>Spécialité Physique-Chimie<br>Mention Bien<br>Lycée Montchapet @ Dijon, France</div>
                     </div>
                 </div>
-            </div>
-            <div id="resume-footer" class="text-center mt-4 resume-collapse collapse show">
-                <button class="btn btn-outline-light" data-toggle="collapse" data-target=".resume-collapse" aria-controls="resume-main resume-footer" aria-expanded="false">Resume</button>
             </div>
         </div>
     </div>
