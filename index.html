@@ -4,15 +4,15 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col col-10 mx-auto">
-            <div class="text-center">
+            <section id="resume-header" class="text-center">
                 <img id="profile-picture" class="rounded-circle" src="media/profile.png" alt="profile picture">
                 <h1>Thomas JOUANNOT</h1>
                 <h4 class="text-muted-custom">senior java/python developer</h4>
                 <h4 class="text-muted-custom">junior cloud/container architect</h4>
-            </div>
-            <div>
+            </section>
+            <section id="resume-skills">
                 <h2>Skills <span class="text-muted-custom">+ todo</span></h2>
-                <div id="resume-skills" class="card-columns">
+                <div class="card-columns">
                     {% for category in site.data.skills %}
                     <div class="card bg-dark border-secondary">
                         <div class="card-header border-secondary">{{ category.name }}</div>
@@ -35,8 +35,10 @@ layout: default
                     </div>
                     {% endfor %}
                 </div>
+            </section>
+            <section id="resume-training">
                 <h2>Training</h2>
-                <div id="resume-training" class="card-columns">
+                <div class="card-columns">
                     <div class="card bg-dark border-secondary">
                         <div class="card-header border-secondary d-flex flex-column flex-sm-row">
                             <div>RHCSA Rapid Track Course (<a href="https://www.redhat.com/en/services/training/rh199-rhcsa-rapid-track-course">RH199</a>)</div>
@@ -45,8 +47,10 @@ layout: default
                         <div class="card-body">Red Hat System Administration I and II consolidated over 4 days, targeting RHEL 8.</div>
                     </div>
                 </div>
+            </section>
+            <section id="resume-experience">
                 <h2>Experience</h2>
-                <div id="resume-experience" class="accordion">
+                <div class="accordion">
                     {% for experience in site.data.experience %}
                     <div class="card bg-dark border-secondary">
                         {% assign i = i | plus: 1 %}
@@ -80,8 +84,10 @@ layout: default
                     </div>
                     {% endfor %}
                 </div>
+            </section>
+            <section id="resume-education">
                 <h2>Education</h2>
-                <div id="resume-education" class="card-columns">
+                <div class="card-columns">
                     <div class="card bg-dark border-secondary">
                         <div class="card-header border-secondary d-flex flex-column flex-sm-row">
                             <div>DUT Informatique</div>
@@ -97,7 +103,7 @@ layout: default
                         <div class="card-body">Option SVT<br>Spécialité Physique-Chimie<br>Mention Bien<br>Lycée Montchapet @ Dijon, France</div>
                     </div>
                 </div>
-            </div>
+            </section>
         </div>
     </div>
 </div>

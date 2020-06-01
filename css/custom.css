@@ -65,37 +65,37 @@ a, a:hover {
 }
 
 @media (min-width: 576px) {
-    #resume-skills.card-columns {
+    #resume-skills .card-columns {
         column-count: 2;
     }
 
-    #resume-training.card-columns {
+    #resume-training .card-columns {
         column-count: 1;
     }
 
-    #resume-education.card-columns {
+    #resume-education .card-columns {
         column-count: 1;
     }
 }
 
 @media (min-width: 768px) {
-    #resume-skills.card-columns {
+    #resume-skills .card-columns {
         column-count: 3;
     }
 }
 
 @media (min-width: 992px) {
-    #resume-skills.card-columns {
+    #resume-skills .card-columns {
         column-count: 4;
     }
 
-    #resume-education.card-columns {
+    #resume-education .card-columns {
         column-count: 2;
     }
 }
 
 @media (min-width: 1200px) {
-    #resume-skills.card-columns {
+    #resume-skills .card-columns {
         column-count: 5;
     }
 }
