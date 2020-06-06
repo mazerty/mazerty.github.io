@@ -14,6 +14,11 @@
     src: local("Special Elite Regular"), local("SpecialElite-Regular"), url(../webfonts/SpecialElite-Regular.ttf) format("truetype");
 }
 
+html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 5rem;
+}
+
 body {
     font-family: "Ubuntu", sans-serif;
 }
