@@ -53,6 +53,11 @@ a, a:hover {
     color: inherit;
 }
 
+#resume-header {
+    min-height: 80vh;
+    display: flex;
+}
+
 #profile-picture {
     max-width: 15rem;
     max-height: 15rem;
