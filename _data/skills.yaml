@@ -18,14 +18,17 @@
   todos:
     - { name: Gradle }
     - { name: Vert.x }
+    - { name: Testcontainers }
 - name: Python
   skills:
     - { name: Python 3, score: 60, like: true }
-    - { name: pip, score: 45 }
-    - { name: virtualenv, score: 60 }
+    - { name: venv, score: 60 }
     - { name: unittest, score: 30 }
   todos:
-    - { name: Web frameworks }
+    - { name: pytest }
+    - { name: coverage.py }
+    - { name: setuptools }
+    - { name: Flask }
 - name: Front
   skills:
     - { name: HTML 5, score: 75 }
@@ -34,6 +37,7 @@
     - { name: Bootstrap, score: 60 }
   todos:
     - { name: VueJS, like: true }
+    - { name: SASS }
 - name: Data
   skills:
     - { name: Oracle, score: 75 }
@@ -57,9 +61,9 @@
     - { name: Nginx, score: 60 }
   todos:
     - { name: containerd }
-    - { name: Podman }
     - { name: Kubernetes }
-    - { name: Rancher }
+    - { name: HAProxy }
+    - { name: Keepalived }
 - name: Cloud
   skills:
     - { name: AWS, score: 60 }
@@ -72,10 +76,9 @@
     - { name: IntelliJ, score: 75, like: true }
     - { name: Jenkins, score: 45 }
     - { name: Terraform, score: 45 }
-    - { name: Vagrant, score: 45 }
   todos:
     - { name: Prometheus, like: true }
-    - { name: Eclipse Che }
+    - { name: Concourse }
     - { name: pfSense }
 - name: Practices
   skills:
