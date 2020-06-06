@@ -61,7 +61,8 @@ a, a:hover {
 #profile-picture {
     max-width: 15rem;
     max-height: 15rem;
-    padding-bottom: 2rem;
+    margin-bottom: 1rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 8px 16px 0 rgba(0, 0, 0, 0.2);
 }
 
 #resume-skills .progress {
