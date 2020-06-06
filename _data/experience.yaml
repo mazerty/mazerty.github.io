@@ -1,6 +1,9 @@
 ---
+- dates: 2020/09 - ?
+  objective: Write and travel a bit, also release a stable version of my side project, <a href="https://github.com/zebr0">zebr0</a>
+
 - title: DevOps Engineer
-  dates: 2019/09 - Present
+  dates: 2019/09 - 2020/08
   company: Enedis
   project: ZSEv2
   project_description: an OpenStack-based private cloud with full CI/CD suite
@@ -58,3 +61,10 @@
   company: Tessi
   project: RIB Converter
   role: Design, Java development & customer validation
+
+- title: Developer
+  dates: 2012/09 - 2013/04
+  company: Total
+  project: Total GR
+  project_description: a payment card management system
+  role: UI, batch development & optimization in Java
