@@ -58,7 +58,7 @@ layout: default
                             {% endif %}
                             <div class="text-muted-custom text-sm-right" style="width: 9rem;">{{ experience.dates }}</div>
                         </a>
-                        <div id="experience{{ i }}" class="collapse{% if i == 1 %} show{% endif %}">
+                        <div id="experience{{ i }}" class="collapse{% if i == 2 or i == 3 %} show{% endif %}">
                             <div class="card-body">
                                 {% if experience.company %}
                                 <div><span class="text-muted-custom">Company:</span> {{ experience.company }}</div>
