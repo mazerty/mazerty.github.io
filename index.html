@@ -72,6 +72,9 @@ layout: default
                                 {% if experience.objective %}
                                 <div><span class="text-muted-custom">Objective:</span> {{ experience.objective }}</div>
                                 {% endif %}
+                                {% if experience.employer %}
+                                <div class="mt-2"><span class="text-muted-custom">Consulting for:</span> {{ experience.employer }}</div>
+                                {% endif %}
                             </div>
                         </div>
                     </div>

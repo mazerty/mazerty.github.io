@@ -9,6 +9,7 @@
   project_description: an OpenStack-based private cloud with full CI/CD suite
   role: Ansible, Git & Test specialist
   objective: Learning as much as possible about OpenStack
+  employer: Groupe Open
 
 - title: Junior Cloud Architect
   dates: 2019/12
@@ -16,6 +17,7 @@
   project: Episeq CS
   project_description: a protein-structure analysis tool for clinical pathogens outbreaks monitoring
   role: AWS architecture audit
+  employer: Groupe Open
 
 - title: Senior Developer
   dates: 2018/12 - 2019/08
@@ -23,6 +25,7 @@
   project: LinkyDep
   project_description: nation-wide deployment system for the Linky Smart Grid
   role: Mob programming to coach junior developers
+  employer: Groupe Open
 
 - title: Junior Cloud Architect
   dates: 2018/11
@@ -30,6 +33,7 @@
   project: New TechLib
   project_description: a new documentation management system
   role: AWS architecture design & developer support
+  employer: Groupe Open
 
 - dates: 2018/06 - 2018/11
   objective: Working full-time on my side project, <a href="https://github.com/zebr0">zebr0</a>
@@ -40,6 +44,7 @@
   project: MobileFactory
   project_description: a small Rapid Application Development team
   role: Java & Angular development, on-premise & AWS deployment
+  employer: Groupe Open
 
 - title: DevOps Engineer
   dates: 2016/08 - 2017/09
@@ -48,6 +53,7 @@
   project_description: '"DevOps" Core team'
   role: managing the projects' CI/CD platform, tool development & deployment, Git specialist
   objective: Learning as much as possible about system administration
+  employer: Groupe Open
 
 - title: Senior Developer
   dates: 2013/08 - 2016/07
@@ -55,12 +61,14 @@
   project: LinkyDep
   project_description: nation-wide deployment system for the Linky Smart Grid
   role: UI, B2B, batch development & optimization in Java
+  employer: Groupe Open
 
 - title: Lead Developer
   dates: 2013/05 - 2013/07
   company: Tessi
   project: RIB Converter
   role: Design, Java development & customer validation
+  employer: Groupe Open
 
 - title: Developer
   dates: 2012/09 - 2013/04
@@ -68,3 +76,4 @@
   project: Total GR
   project_description: a payment card management system
   role: UI, batch development & optimization in Java
+  employer: CGI
