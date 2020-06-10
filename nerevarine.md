@@ -1,7 +1,7 @@
 ---
 layout: article
 title: "Nerevarine"
-subtitle: 'a <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind">The Elder Scrolls III: Morrowind</a> fiction'
+subtitle: 'a <a href="https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind" target="_blank">The Elder Scrolls III: Morrowind</a> fiction'
 ---
 _Spoiler warning: this fiction closely follows the story of the game and both its extensions, you'd better not read this if you want to discover it by yourself._
 
