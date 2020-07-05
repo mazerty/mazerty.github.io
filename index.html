@@ -24,9 +24,9 @@ layout: default
                         <div class="card-body">
                             {% for skill in category.skills %}
                             <div>{{ skill.name }}{% if skill.like %} <i class="far fa-heart text-danger"></i>{% endif %}</div>
-                            <div class="progress bg-dark">
+                            <div class="progress-custom">
                                 {% if skill.score %}
-                                <div class="progress-bar bg-secondary" role="progressbar" style="width: {{ skill.score }}%" aria-valuenow="{{ skill.score }}" aria-valuemin="0" aria-valuemax="100"></div>
+                                <div class="progress-custom-mask bg-dark" style="width: {{ 100 | minus: skill.score }}%"></div>
                                 {% endif %}
                             </div>
                             {% endfor %}
