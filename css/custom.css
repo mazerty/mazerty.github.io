@@ -53,6 +53,10 @@ a, a:hover {
     color: inherit;
 }
 
+a.card-header:hover {
+    text-decoration: none;
+}
+
 #resume-header {
     min-height: 80vh;
     display: flex;
@@ -70,10 +74,6 @@ a, a:hover {
     height: 3px;
     margin-top: -0.1rem;
     margin-bottom: 0.1rem;
-}
-
-#resume-experience a.card-header:hover {
-    text-decoration: none;
 }
 
 @media (min-width: 576px) {
