@@ -47,7 +47,7 @@ layout: default
                     {% for experience in site.data.experience %}
                     <div class="card bg-dark border-secondary">
                         {% assign i = i | plus: 1 %}
-                        <a class="card-header border-secondary d-flex flex-column flex-sm-row" data-toggle="collapse" href="#experience{{ i }}" aria-expanded="{% if i == 1 %}true{% else %}false{% endif %}" aria-controls="experience{{ i }}">
+                        <a class="card-header border-secondary d-flex flex-column flex-sm-row" data-toggle="collapse" href="#experience{{ i }}" aria-expanded="{% if i == 2 or i == 3 %}true{% else %}false{% endif %}" aria-controls="experience{{ i }}">
                             {% if experience.title %}
                             <div class="mr-auto">{{ experience.title }}</div>
                             {% else %}
