@@ -3,3 +3,83 @@
   bookmarks:
     - title: Gmail
       url: https://mail.google.com
+    - title: Feedly
+      url: https://feedly.com
+    - title: Twitter
+      url: https://twitter.com
+    - title: GitHub
+      url: https://github.com
+    - title: DeviantArt
+      url: https://deviantart.com
+    - title: Météo
+      url: https://meteofrance.com
+    - title: ING Direct
+      url: https://m.ing.fr/secure/login/cif
+    - title: LinkedIn
+      url: https://linkedin.com
+    - title: Slack
+      url: https://app.slack.com/client
+- title: JdLL
+  bookmarks:
+    - title: Pad
+      url: https://pad.jdll.org/w/2021
+    - title: Nextcloud
+      url: https://nextcloud.aldil.org
+    - title: Mattermost
+      url: https://framateam.org
+- title: Handy
+  bookmarks:
+    - title: AWS
+      url: https://mazerty.signin.aws.amazon.com/console
+    - title: Netflix
+      url: https://netflix.com
+    - title: Attestation de déplacement dérogatoire
+      url: https://media.interieur.gouv.fr/deplacement-covid-19
+- title: Ciné
+  bookmarks:
+    - title: Confluence
+      url: https://www.ugc.fr/cinema.html?id=36
+    - title: Cité Internationale
+      url: https://www.ugc.fr/cinema.html?id=32
+    - title: Part-Dieu
+      url: https://www.ugc.fr/cinema.html?id=34
+    - title: Astoria
+      url: https://www.ugc.fr/cinema.html?id=33
+- title: Java
+  bookmarks:
+    - title: MapStruct
+      url: https://mapstruct.org
+    - title: Deploying to Maven Central
+      url: https://central.sonatype.org/pages/ossrh-guide.html
+    - title: Vaadin Icons
+      url: https://vaadin.com/components/vaadin-icons
+- title: Web
+  bookmarks:
+    - title: HTTP Cache
+      url: https://web.dev/http-cache
+- title: System
+  bookmarks:
+    - title: Ubuntu Amazon EC2 AMI Locator
+      url: https://cloud-images.ubuntu.com/locator/ec2
+    - title: Vim Cheat Sheet
+      url: https://vim.rtorr.com
+    - title: Git from the inside out
+      url: https://maryrosecook.com/blog/post/git-from-the-inside-out
+    - title: Debian packages
+      url: https://www.debian.org/doc/manuals/developers-reference/pkgs.html
+    - title: Ubuntu packages
+      url: https://packaging.ubuntu.com/html/index.html
+    - title: Debian Python packages
+      url: https://www.debian.org/doc/packaging-manuals/python-policy/ch-module_packages.html
+- title: Torrent
+  bookmarks:
+    - title: DHT
+      url: https://www.bittorrent.org/beps/bep_0051.html
+    - title: Hacker News - Magnetico
+      url: https://news.ycombinator.com/item?id=14018877
+    - title: DHT search engine
+      url: https://skytorrents.lol
+- title: Uncharted
+  bookmarks:
+    - title: Netflix - Linux performance analysis
+      url: https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
