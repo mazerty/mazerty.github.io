@@ -57,6 +57,8 @@
   bookmarks:
     - title: HTTP Cache
       url: https://web.dev/http-cache
+    - title: Site national des adresses
+      url: https://adresse.data.gouv.fr
 - title: System
   bookmarks:
     - title: Ubuntu Amazon EC2 AMI Locator
@@ -81,5 +83,14 @@
       url: https://skytorrents.lol
 - title: Uncharted
   bookmarks:
-    - title: Netflix - Linux performance analysis
-      url: https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
+    - title: Bitwarden
+      url: https://github.com/bitwarden/server
+    - title: 4thewords
+      url: https://4thewords.com
+    - url: https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
+    - url: https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user
+    - url: https://github.com/butlerx/wetty
+    - url: https://github.com/GoogleContainerTools/jib
+    - url: https://www.pcgamer.com/world-of-warcraft-is-the-best-its-ever-been-for-a-solo-player
+    - url: https://indeed.fr
+    - url: https://talent.io
