@@ -35,6 +35,8 @@
       url: https://netflix.com
     - title: Attestation de déplacement dérogatoire
       url: https://media.interieur.gouv.fr/deplacement-covid-19
+    - title: Speed test
+      url: https://speed.cloudflare.com
 - title: Ciné
   bookmarks:
     - title: Confluence
@@ -83,10 +85,9 @@
       url: https://skytorrents.lol
 - title: Uncharted
   bookmarks:
-    - title: Bitwarden
-      url: https://github.com/bitwarden/server
-    - title: 4thewords
-      url: https://4thewords.com
+    - url: https://github.com/twintproject/twint
+    - url: https://github.com/bitwarden/server
+    - url: https://4thewords.com
     - url: https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
     - url: https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user
     - url: https://github.com/butlerx/wetty
@@ -94,3 +95,33 @@
     - url: https://www.pcgamer.com/world-of-warcraft-is-the-best-its-ever-been-for-a-solo-player
     - url: https://indeed.fr
     - url: https://talent.io
+    - url: https://www.whonix.org
+    - url: https://korben.info/gagnez-encore-plus-de-temps-avec-votre-terminal.html
+    - url: https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout
+    - url: https://jvectormap.com
+    - url: https://explainshell.com
+    - url: https://www.freelan.org
+    - url: https://github.com/marmelab/gremlins.js
+    - url: https://www.3pages.fr
+    - url: https://github.com/google/material-design-icons
+    - url: https://togetherjs.com
+    - url: https://libraries.io
+    - url: https://www.tunefind.com
+    - url: https://www.graylog.org
+    - url: https://github.com/stamparm/maltrail
+    - url: https://www.root-me.org
+    - url: https://openlogos.org
+    - url: https://github.com/MontFerret/ferret
+    - url: https://mybrandnewlogo.com
+    - url: https://github.com/transloadit/uppy
+    - url: https://ipfs.io
+    - url: https://ssl-config.mozilla.org
+    - url: https://beginners.re
+    - url: https://github.com/theonedev/onedev
+    - url: https://uidesigndaily.com
+    - url: https://min.io
+    - url: https://github.com/ventoy/Ventoy
+    - url: https://www.laou.fr
+    - url: https://korben.info/creer-depot-miroir-debian.html
+    - url: https://github.com/curlpipe/ox
+    - url: https://github.com/quilljs/quill
