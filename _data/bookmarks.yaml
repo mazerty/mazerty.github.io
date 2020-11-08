@@ -37,6 +37,7 @@
       url: https://media.interieur.gouv.fr/deplacement-covid-19
     - title: Speed test
       url: https://speed.cloudflare.com
+    - url: https://www.tunefind.com
 - title: Ciné
   bookmarks:
     - title: Confluence
@@ -47,6 +48,11 @@
       url: https://www.ugc.fr/cinema.html?id=34
     - title: Astoria
       url: https://www.ugc.fr/cinema.html?id=33
+- title: Dev
+  bookmarks:
+    - url: https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user
+    - url: https://libraries.io
+    - url: https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds
 - title: Java
   bookmarks:
     - title: MapStruct
@@ -55,12 +61,26 @@
       url: https://central.sonatype.org/pages/ossrh-guide.html
     - title: Vaadin Icons
       url: https://vaadin.com/components/vaadin-icons
+    - url: https://github.com/GoogleContainerTools/jib
+    - url: https://pitest.org
+    - url: https://phauer.com/2019/modern-best-practices-testing-java
+    - url: https://blog.jooq.org/2020/10/13/using-jooq-3-14-synthetic-foreign-keys-to-write-implicit-joins-on-views
+    - url: https://blog.jooq.org/2020/10/09/nesting-collections-with-jooq-3-14s-sql-xml-or-sql-json-support
 - title: Web
   bookmarks:
     - title: HTTP Cache
       url: https://web.dev/http-cache
     - title: Site national des adresses
       url: https://adresse.data.gouv.fr
+    - url: https://jvectormap.com
+    - url: https://github.com/marmelab/gremlins.js
+    - url: https://github.com/google/material-design-icons
+    - url: https://togetherjs.com
+    - url: https://openlogos.org
+    - url: https://mybrandnewlogo.com
+    - url: https://uidesigndaily.com
+    - url: https://github.com/MontFerret/ferret
+    - url: https://github.com/transloadit/uppy
 - title: System
   bookmarks:
     - title: Ubuntu Amazon EC2 AMI Locator
@@ -75,6 +95,38 @@
       url: https://packaging.ubuntu.com/html/index.html
     - title: Debian Python packages
       url: https://www.debian.org/doc/packaging-manuals/python-policy/ch-module_packages.html
+    - url: https://korben.info/gagnez-encore-plus-de-temps-avec-votre-terminal.html
+    - url: https://explainshell.com
+    - url: https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
+    - url: https://ssl-config.mozilla.org
+    - url: https://github.com/ventoy/Ventoy
+    - url: https://korben.info/creer-depot-miroir-debian.html
+    - url: https://nixos.org
+    - url: https://natanyellin.com/posts/tracking-running-processes-on-linux
+    - url: https://github.com/aristocratos/bpytop
+- title: Reading
+  bookmarks:
+    - url: https://thenewstack.io/the-future-of-ops-careers
+    - url: https://www.ufried.com/blog/purpose_of_architecture
+    - url: https://roadmap.sh/devops
+    - url: https://www.miximum.fr/blog/developpeur-web-freelance-tjm
+    - url: https://vlfig.me/posts/microservices
+- title: Software
+  bookmarks:
+    - url: https://github.com/bitwarden/server
+    - url: https://github.com/theonedev/onedev
+    - url: https://www.graylog.org
+- title: Security
+  bookmarks:
+    - url: https://www.whonix.org
+    - url: https://github.com/stamparm/maltrail
+    - url: https://www.root-me.org
+- title: Network
+  bookmarks:
+    - url: https://github.com/butlerx/wetty
+    - url: https://www.freelan.org
+    - url: https://ipfs.io
+    - url: https://min.io
 - title: Torrent
   bookmarks:
     - title: DHT
@@ -83,63 +135,24 @@
       url: https://news.ycombinator.com/item?id=14018877
     - title: DHT search engine
       url: https://skytorrents.lol
-- title: Uncharted
+- title: Games
   bookmarks:
     - url: https://www.youtube.com/playlist?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_
-    - url: https://github.com/twintproject/twint
-    - url: https://github.com/bitwarden/server
-    - url: https://4thewords.com
-    - url: https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
-    - url: https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user
-    - url: https://github.com/butlerx/wetty
-    - url: https://github.com/GoogleContainerTools/jib
     - url: https://www.pcgamer.com/world-of-warcraft-is-the-best-its-ever-been-for-a-solo-player
-    - url: https://indeed.fr
-    - url: https://talent.io
-    - url: https://www.whonix.org
-    - url: https://korben.info/gagnez-encore-plus-de-temps-avec-votre-terminal.html
-    - url: https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout
-    - url: https://jvectormap.com
-    - url: https://explainshell.com
-    - url: https://www.freelan.org
-    - url: https://github.com/marmelab/gremlins.js
     - url: https://www.3pages.fr
-    - url: https://github.com/google/material-design-icons
-    - url: https://togetherjs.com
-    - url: https://libraries.io
-    - url: https://www.tunefind.com
-    - url: https://www.graylog.org
-    - url: https://github.com/stamparm/maltrail
-    - url: https://www.root-me.org
-    - url: https://openlogos.org
-    - url: https://github.com/MontFerret/ferret
-    - url: https://mybrandnewlogo.com
-    - url: https://github.com/transloadit/uppy
-    - url: https://ipfs.io
-    - url: https://ssl-config.mozilla.org
+    - url: https://wowup.io
+- title: Curiosity
+  bookmarks:
     - url: https://beginners.re
-    - url: https://github.com/theonedev/onedev
-    - url: https://uidesigndaily.com
-    - url: https://min.io
-    - url: https://github.com/ventoy/Ventoy
-    - url: https://www.laou.fr
-    - url: https://korben.info/creer-depot-miroir-debian.html
     - url: https://github.com/curlpipe/ox
     - url: https://github.com/quilljs/quill
-    - url: https://wowup.io
-    - url: https://thenewstack.io/the-future-of-ops-careers
-    - url: https://nixos.org
-    - url: https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds
-    - url: https://pitest.org
-    - url: https://www.ufried.com/blog/purpose_of_architecture
-    - url: https://roadmap.sh/devops
-    - url: https://www.miximum.fr/blog/developpeur-web-freelance-tjm
-    - url: https://natanyellin.com/posts/tracking-running-processes-on-linux
-    - url: https://github.com/aristocratos/bpytop
-    - url: https://phauer.com/2019/modern-best-practices-testing-java
-    - url: https://blog.jooq.org/2020/10/13/using-jooq-3-14-synthetic-foreign-keys-to-write-implicit-joins-on-views
-    - url: https://blog.jooq.org/2020/10/09/nesting-collections-with-jooq-3-14s-sql-xml-or-sql-json-support
-    - url: https://vlfig.me/posts/microservices
+- title: Job
+  bookmarks:
+    - url: https://indeed.fr
+    - url: https://talent.io
+    - url: https://www.laou.fr
+- title: Uncharted
+  bookmarks:
     - url: https://netflixtechblog.com/tuning-tomcat-for-a-high-throughput-fail-fast-system-e4d7b2fc163f
     - url: https://reflectoring.io/spring-boot-docker
     - url: https://twitter.com/svpino/status/1308632185113579522
