@@ -53,6 +53,7 @@
     - url: https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user
     - url: https://libraries.io
     - url: https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds
+    - url: https://conventionalcomments.org
 - title: Java
   bookmarks:
     - title: MapStruct
@@ -66,6 +67,10 @@
     - url: https://phauer.com/2019/modern-best-practices-testing-java
     - url: https://blog.jooq.org/2020/10/13/using-jooq-3-14-synthetic-foreign-keys-to-write-implicit-joins-on-views
     - url: https://blog.jooq.org/2020/10/09/nesting-collections-with-jooq-3-14s-sql-xml-or-sql-json-support
+    - url: https://netflixtechblog.com/tuning-tomcat-for-a-high-throughput-fail-fast-system-e4d7b2fc163f
+    - url: https://reflectoring.io/spring-boot-docker
+    - url: https://www.clever-cloud.com/blog/engineering/2020/09/09/using-jaas-in-the-cloud-era
+    - url: https://blog.arkey.fr/2020/06/28/using-jdk-flight-recorder-and-jdk-mission-control
 - title: Web
   bookmarks:
     - title: HTTP Cache
@@ -104,13 +109,26 @@
     - url: https://nixos.org
     - url: https://natanyellin.com/posts/tracking-running-processes-on-linux
     - url: https://github.com/aristocratos/bpytop
+    - url: https://about.gitlab.com/blog/2020/09/11/gitlab-pg-upgrade
+    - url: https://github.com/wagoodman/dive
+    - url: https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-cpu
+    - url: https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool
 - title: Reading
   bookmarks:
+    - url: https://www.patkua.com/blog/multipliers
     - url: https://thenewstack.io/the-future-of-ops-careers
     - url: https://www.ufried.com/blog/purpose_of_architecture
     - url: https://roadmap.sh/devops
     - url: https://www.miximum.fr/blog/developpeur-web-freelance-tjm
     - url: https://vlfig.me/posts/microservices
+    - url: https://medium.com/@skamille/the-management-flywheel-c076f398969b
+    - url: https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack
+    - url: https://bpetit.nce.re/fr/2020/08/pourquoi-jai-quitt%C3%A9-mon-job-qui-avait-tout-pour-plaire
+    - url: https://codeopinion.com/loosely-coupled-monolith
+    - url: https://www.blameless.com/blog/improving-postmortems-paul-osman
+    - url: https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ten-antipatterns-that-are-derailing-technology-transformations
+    - url: https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql
+    - url: https://eventuallycoding.com/2020/08/07/bataille-autour-des-donnees-et-du-cloud
 - title: Software
   bookmarks:
     - url: https://github.com/bitwarden/server
@@ -155,36 +173,18 @@
     - url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://netflixtechblog.com/tuning-tomcat-for-a-high-throughput-fail-fast-system-e4d7b2fc163f
-    - url: https://reflectoring.io/spring-boot-docker
     - url: https://twitter.com/svpino/status/1308632185113579522
     - url: https://blog.wescale.fr/2020/09/24/scanner-les-vulnerabilites-de-son-site-web
-    - url: https://medium.com/@skamille/the-management-flywheel-c076f398969b
     - url: https://www.wireshark.org
-    - url: https://about.gitlab.com/blog/2020/09/11/gitlab-pg-upgrade
     - url: https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
     - url: https://twitter.com/SerCeMan/status/1305783089608548354
-    - url: https://www.patkua.com/blog/multipliers
-    - url: https://www.clever-cloud.com/blog/engineering/2020/09/09/using-jaas-in-the-cloud-era
-    - url: https://github.com/wagoodman/dive
-    - url: https://conventionalcomments.org
-    - url: https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-cpu
     - url: https://twitter.com/stadtlegende/status/1300461546578087936
-    - url: https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool
-    - url: https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack
-    - url: https://bpetit.nce.re/fr/2020/08/pourquoi-jai-quitt%C3%A9-mon-job-qui-avait-tout-pour-plaire
-    - url: https://codeopinion.com/loosely-coupled-monolith
     - url: https://github.com/segmentio/topicctl
     - url: https://www.jetbrains.com/help/idea/analyze-hprof-memory-snapshots.html
     - url: https://www.ufried.com/blog/laws_of_architectural_work
     - url: https://www.confluent.io/blog/kafka-fastest-messaging-system
     - url: https://medium.com/the-elegant-network/what-ive-learned-about-scaling-ospf-in-datacenters-7100c33ce63c
     - url: https://jepsen.io/consistency
-    - url: https://blog.arkey.fr/2020/06/28/using-jdk-flight-recorder-and-jdk-mission-control
-    - url: https://www.blameless.com/blog/improving-postmortems-paul-osman
-    - url: https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ten-antipatterns-that-are-derailing-technology-transformations
-    - url: https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql
-    - url: https://eventuallycoding.com/2020/08/07/bataille-autour-des-donnees-et-du-cloud
     - url: https://queue.acm.org/detail.cfm?id=3404974
     - url: https://sourcemaking.com/antipatterns/software-development-antipatterns
     - url: https://eng.uber.com/postgres-to-mysql-migration
