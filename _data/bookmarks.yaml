@@ -113,6 +113,7 @@
     - url: https://github.com/wagoodman/dive
     - url: https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-cpu
     - url: https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool
+    - url: https://pgstats.dev
 - title: Reading
   bookmarks:
     - url: https://www.patkua.com/blog/multipliers
