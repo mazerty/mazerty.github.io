@@ -71,6 +71,11 @@
     - url: https://reflectoring.io/spring-boot-docker
     - url: https://www.clever-cloud.com/blog/engineering/2020/09/09/using-jaas-in-the-cloud-era
     - url: https://blog.arkey.fr/2020/06/28/using-jdk-flight-recorder-and-jdk-mission-control
+    - url: https://twitter.com/SerCeMan/status/1305783089608548354
+    - url: https://www.jetbrains.com/help/idea/analyze-hprof-memory-snapshots.html
+- title: Python
+  bookmarks:
+    - url: https://twitter.com/svpino/status/1308632185113579522
 - title: Web
   bookmarks:
     - title: HTTP Cache
@@ -114,6 +119,7 @@
     - url: https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-cpu
     - url: https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool
     - url: https://pgstats.dev
+    - url: https://korben.info/limitez-bande-passante-linux-trickle.html
 - title: Reading
   bookmarks:
     - url: https://www.patkua.com/blog/multipliers
@@ -130,22 +136,32 @@
     - url: https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ten-antipatterns-that-are-derailing-technology-transformations
     - url: https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql
     - url: https://eventuallycoding.com/2020/08/07/bataille-autour-des-donnees-et-du-cloud
+    - url: https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
+    - url: https://www.ufried.com/blog/laws_of_architectural_work
+    - url: https://medium.com/the-elegant-network/what-ive-learned-about-scaling-ospf-in-datacenters-7100c33ce63c
+    - url: https://jepsen.io/consistency
+    - url: https://queue.acm.org/detail.cfm?id=3404974
 - title: Software
   bookmarks:
     - url: https://github.com/bitwarden/server
     - url: https://github.com/theonedev/onedev
     - url: https://www.graylog.org
+    - url: https://twitter.com/stadtlegende/status/1300461546578087936
+    - url: https://github.com/segmentio/topicctl
+    - url: https://www.confluent.io/blog/kafka-fastest-messaging-system
 - title: Security
   bookmarks:
     - url: https://www.whonix.org
     - url: https://github.com/stamparm/maltrail
     - url: https://www.root-me.org
+    - url: https://blog.wescale.fr/2020/09/24/scanner-les-vulnerabilites-de-son-site-web
 - title: Network
   bookmarks:
     - url: https://github.com/butlerx/wetty
     - url: https://www.freelan.org
     - url: https://ipfs.io
     - url: https://min.io
+    - url: https://www.wireshark.org
 - title: Torrent
   bookmarks:
     - title: DHT
@@ -174,20 +190,6 @@
     - url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://korben.info/limitez-bande-passante-linux-trickle.html
-    - url: https://twitter.com/svpino/status/1308632185113579522
-    - url: https://blog.wescale.fr/2020/09/24/scanner-les-vulnerabilites-de-son-site-web
-    - url: https://www.wireshark.org
-    - url: https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
-    - url: https://twitter.com/SerCeMan/status/1305783089608548354
-    - url: https://twitter.com/stadtlegende/status/1300461546578087936
-    - url: https://github.com/segmentio/topicctl
-    - url: https://www.jetbrains.com/help/idea/analyze-hprof-memory-snapshots.html
-    - url: https://www.ufried.com/blog/laws_of_architectural_work
-    - url: https://www.confluent.io/blog/kafka-fastest-messaging-system
-    - url: https://medium.com/the-elegant-network/what-ive-learned-about-scaling-ospf-in-datacenters-7100c33ce63c
-    - url: https://jepsen.io/consistency
-    - url: https://queue.acm.org/detail.cfm?id=3404974
     - url: https://sourcemaking.com/antipatterns/software-development-antipatterns
     - url: https://eng.uber.com/postgres-to-mysql-migration
     - url: https://www.emaxilde.net/posts/2020/07/18/je-fais-partie-d-une-espece-menacee-d-extinction.html
