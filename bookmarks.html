@@ -4,29 +4,27 @@ layout: default
 <div class="container">
     <div class="row">
         <div class="col col-10 mx-auto">
-            <section id="bookmarks">
-                <h2>Bookmarks</h2>
-                <div class="accordion">
-                    {% for group in site.data.bookmarks %}
-                    <div class="card bg-dark border-secondary">
-                        {% assign i = i | plus: 1 %}
-                        <a class="card-header border-secondary" data-toggle="collapse" href="#group{{ i }}" aria-expanded="{% if i == 1 %}true{% else %}false{% endif %}" aria-controls="group{{ i }}">
-                            {{ group.title }}
-                        </a>
-                        <div id="group{{ i }}" class="collapse{% if i == 1 %} show{% endif %}">
-                            <div class="card-body">
-                                {% for link in group.bookmarks %}
-                                <div class="text-truncate">
-                                    {% if link.title %}<a href="{{ link.url }}" class="mr-2">{{ link.title }}</a>{% endif %}
-                                    <a href="{{ link.url }}" class="text-muted-custom">{{ link.url }}</a>
-                                </div>
-                                {% endfor %}
+            <h2>Bookmarks</h2>
+            <div class="accordion">
+                {% for group in site.data.bookmarks %}
+                <div class="card bg-dark border-secondary">
+                    {% assign i = i | plus: 1 %}
+                    <a class="card-header border-secondary" data-toggle="collapse" href="#group{{ i }}" aria-expanded="{% if i == 1 %}true{% else %}false{% endif %}" aria-controls="group{{ i }}">
+                        {{ group.title }}
+                    </a>
+                    <div id="group{{ i }}" class="collapse{% if i == 1 %} show{% endif %}">
+                        <div class="card-body">
+                            {% for link in group.bookmarks %}
+                            <div class="text-truncate">
+                                {% if link.title %}<a href="{{ link.url }}" class="mr-2">{{ link.title }}</a>{% endif %}
+                                <a href="{{ link.url }}" class="text-muted-custom">{{ link.url }}</a>
                             </div>
+                            {% endfor %}
                         </div>
                     </div>
-                    {% endfor %}
                 </div>
-            </section>
+                {% endfor %}
+            </div>
         </div>
     </div>
 </div>
