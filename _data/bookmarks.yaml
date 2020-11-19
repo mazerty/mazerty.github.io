@@ -54,6 +54,8 @@
     - url: https://libraries.io
     - url: https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds
     - url: https://conventionalcomments.org
+    - url: https://sourcemaking.com/antipatterns/software-development-antipatterns
+    - url: https://tyrrrz.me/blog/unit-testing-is-overrated
 - title: Java
   bookmarks:
     - title: MapStruct
@@ -73,6 +75,7 @@
     - url: https://blog.arkey.fr/2020/06/28/using-jdk-flight-recorder-and-jdk-mission-control
     - url: https://twitter.com/SerCeMan/status/1305783089608548354
     - url: https://www.jetbrains.com/help/idea/analyze-hprof-memory-snapshots.html
+    - url: https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications
 - title: Python
   bookmarks:
     - url: https://twitter.com/svpino/status/1308632185113579522
@@ -122,6 +125,7 @@
     - url: https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool
     - url: https://pgstats.dev
     - url: https://korben.info/limitez-bande-passante-linux-trickle.html
+    - url: https://eng.uber.com/postgres-to-mysql-migration
 - title: Reading
   bookmarks:
     - url: https://www.patkua.com/blog/multipliers
@@ -143,6 +147,9 @@
     - url: https://medium.com/the-elegant-network/what-ive-learned-about-scaling-ospf-in-datacenters-7100c33ce63c
     - url: https://jepsen.io/consistency
     - url: https://queue.acm.org/detail.cfm?id=3404974
+    - url: https://www.emaxilde.net/posts/2020/07/18/je-fais-partie-d-une-espece-menacee-d-extinction.html
+    - url: https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7
+    - url: https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d
 - title: Software
   bookmarks:
     - url: https://github.com/bitwarden/server
@@ -151,6 +158,8 @@
     - url: https://twitter.com/stadtlegende/status/1300461546578087936
     - url: https://github.com/segmentio/topicctl
     - url: https://www.confluent.io/blog/kafka-fastest-messaging-system
+    - url: https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log
+    - url: https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale
 - title: Security
   bookmarks:
     - url: https://www.whonix.org
@@ -192,15 +201,6 @@
     - url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://sourcemaking.com/antipatterns/software-development-antipatterns
-    - url: https://eng.uber.com/postgres-to-mysql-migration
-    - url: https://www.emaxilde.net/posts/2020/07/18/je-fais-partie-d-une-espece-menacee-d-extinction.html
-    - url: https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log
-    - url: https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7
-    - url: https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d
-    - url: https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications
-    - url: https://tyrrrz.me/blog/unit-testing-is-overrated
-    - url: https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale
     - url: https://twitter.com/tPl0ch/status/1273924571171823617
     - url: https://github.com/lesovsky/noisia
     - url: https://jvns.ca/blog/2020/06/28/entr
