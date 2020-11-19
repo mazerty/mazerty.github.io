@@ -91,6 +91,8 @@
     - url: https://uidesigndaily.com
     - url: https://github.com/MontFerret/ferret
     - url: https://github.com/transloadit/uppy
+    - url: https://thoughtbot.com/blog/tailwind-versus-bem
+    - url: https://www.smashingmagazine.com/2020/11/internationalization-localization-static-sites
 - title: System
   bookmarks:
     - title: Ubuntu Amazon EC2 AMI Locator
