@@ -76,9 +76,17 @@
     - url: https://twitter.com/SerCeMan/status/1305783089608548354
     - url: https://www.jetbrains.com/help/idea/analyze-hprof-memory-snapshots.html
     - url: https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications
+    - url: https://dagger.dev
+    - url: https://github.com/google/guice
+    - url: https://javalin.io
+    - url: https://sparkjava.com
+    - url: https://github.com/resilience4j/resilience4j
+    - url: https://github.com/making/yavi
+    - url: https://jdbi.org
 - title: Python
   bookmarks:
     - url: https://twitter.com/svpino/status/1308632185113579522
+    - url: https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices
 - title: Web
   bookmarks:
     - title: HTTP Cache
