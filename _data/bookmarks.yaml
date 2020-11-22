@@ -83,6 +83,9 @@
     - url: https://github.com/resilience4j/resilience4j
     - url: https://github.com/making/yavi
     - url: https://jdbi.org
+    - url: https://helidon.io
+    - url: https://github.com/jOOQ/jOOR
+    - url: https://spring.io/blog/2020/06/08/migrating-spring-boot-s-build-to-gradle
 - title: Python
   bookmarks:
     - url: https://twitter.com/svpino/status/1308632185113579522
@@ -104,6 +107,7 @@
     - url: https://github.com/transloadit/uppy
     - url: https://thoughtbot.com/blog/tailwind-versus-bem
     - url: https://www.smashingmagazine.com/2020/11/internationalization-localization-static-sites
+    - url: https://codurance.com/2020/01/16/backstopjs-tutorial
 - title: System
   bookmarks:
     - title: Ubuntu Amazon EC2 AMI Locator
@@ -134,6 +138,8 @@
     - url: https://pgstats.dev
     - url: https://korben.info/limitez-bande-passante-linux-trickle.html
     - url: https://eng.uber.com/postgres-to-mysql-migration
+    - url: https://jvns.ca/blog/2020/06/28/entr
+    - url: https://www.damyr.fr/posts/podman-par-la-pratique
 - title: Reading
   bookmarks:
     - url: https://www.patkua.com/blog/multipliers
@@ -158,6 +164,8 @@
     - url: https://www.emaxilde.net/posts/2020/07/18/je-fais-partie-d-une-espece-menacee-d-extinction.html
     - url: https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7
     - url: https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d
+    - url: https://archiloque.net/blog/problemes-et-solutions
+    - url: https://medium.com/radio-france-engineering/on-demand-ci-cd-with-gitlab-and-kubernetes-1d395105ac45
 - title: Software
   bookmarks:
     - url: https://github.com/bitwarden/server
@@ -168,12 +176,15 @@
     - url: https://www.confluent.io/blog/kafka-fastest-messaging-system
     - url: https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log
     - url: https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale
+    - url: https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill
+    - url: https://www.confluent.io/blog/ksqldb-ensures-consistent-internal-state-reliability-recovery-using-kafka-transactions
 - title: Security
   bookmarks:
     - url: https://www.whonix.org
     - url: https://github.com/stamparm/maltrail
     - url: https://www.root-me.org
     - url: https://blog.wescale.fr/2020/09/24/scanner-les-vulnerabilites-de-son-site-web
+    - url: https://www.gov.uk/guidance/protect-domains-that-dont-send-email
 - title: Network
   bookmarks:
     - url: https://github.com/butlerx/wetty
@@ -203,6 +214,7 @@
     - url: https://github.com/curlpipe/ox
     - url: https://github.com/quilljs/quill
     - url: https://replicastudios.com
+    - url: https://gitlab.com/edouardklein/falsisign
 - title: Job
   bookmarks:
     - url: https://indeed.fr
@@ -210,21 +222,7 @@
     - url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://twitter.com/tPl0ch/status/1273924571171823617
-    - url: https://github.com/lesovsky/noisia
-    - url: https://jvns.ca/blog/2020/06/28/entr
-    - url: https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill
-    - url: https://helidon.io
-    - url: https://github.com/jOOQ/jOOR
-    - url: https://codurance.com/2020/01/16/backstopjs-tutorial
-    - url: https://gitlab.com/edouardklein/falsisign
-    - url: https://archiloque.net/blog/problemes-et-solutions
-    - url: https://www.damyr.fr/posts/podman-par-la-pratique
-    - url: https://www.confluent.io/blog/ksqldb-ensures-consistent-internal-state-reliability-recovery-using-kafka-transactions
-    - url: https://boto3.amazonaws.com/v1/documentation/api/latest/guide/error-handling.html
-    - url: https://spring.io/blog/2020/06/08/migrating-spring-boot-s-build-to-gradle
     - url: https://martinheinz.dev/blog/24
-    - url: https://medium.com/radio-france-engineering/on-demand-ci-cd-with-gitlab-and-kubernetes-1d395105ac45
     - url: https://deniseyu.io/2020/05/21/talking-about-software-at-scale.html
     - url: https://www.stemlaur.com/blog/2020/05/28/tech-adr
     - url: https://github.com/willmcgugan/rich
