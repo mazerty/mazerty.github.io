@@ -56,6 +56,7 @@
     - url: https://conventionalcomments.org
     - url: https://sourcemaking.com/antipatterns/software-development-antipatterns
     - url: https://tyrrrz.me/blog/unit-testing-is-overrated
+    - url: https://learnsql.com/blog/sql-window-functions-cheat-sheet
 - title: Java
   bookmarks:
     - title: MapStruct
@@ -90,6 +91,8 @@
   bookmarks:
     - url: https://twitter.com/svpino/status/1308632185113579522
     - url: https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices
+    - url: https://martinheinz.dev/blog/24
+    - url: https://github.com/willmcgugan/rich
 - title: Web
   bookmarks:
     - title: HTTP Cache
@@ -167,6 +170,14 @@
     - url: https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d
     - url: https://archiloque.net/blog/problemes-et-solutions
     - url: https://medium.com/radio-france-engineering/on-demand-ci-cd-with-gitlab-and-kubernetes-1d395105ac45
+    - url: https://deniseyu.io/2020/05/21/talking-about-software-at-scale.html
+    - url: https://www.weave.works/blog/gitops-part-3-observability
+    - url: https://blog.cloudflare.com/conntrack-tales-one-thousand-and-one-flows
+    - url: https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
+    - url: https://blog.wescale.fr/2020/04/02/vers-linfrastructure-craftsmanship-avec-les-git-hooks
+    - url: https://blog.acolyer.org/2020/02/26/meaningful-availability
+    - url: https://www.infoq.com/articles/anatomy-cascading-failure
+    - url: https://www.stemlaur.com/blog/2020/05/28/tech-adr
 - title: Software
   bookmarks:
     - url: https://github.com/bitwarden/server
@@ -223,12 +234,6 @@
     - url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://martinheinz.dev/blog/24
-    - url: https://deniseyu.io/2020/05/21/talking-about-software-at-scale.html
-    - url: https://www.stemlaur.com/blog/2020/05/28/tech-adr
-    - url: https://github.com/willmcgugan/rich
-    - url: https://www.weave.works/blog/gitops-part-3-observability
-    - url: https://learnsql.com/blog/sql-window-functions-cheat-sheet
     - url: https://debezium.io/blog/2019/12/18/debezium-1-0-0-final-released
     - url: https://twitter.com/qeole/status/1101450782841466880
     - url: https://robertovitillo.com/what-every-developer-should-know-about-tcp
@@ -249,13 +254,9 @@
     - url: https://www.ufried.com/blog/legacy_systems
     - url: https://blog.yuzutech.fr/blog/minimal-docker-containers
     - url: https://github.com/MichaelMure/git-bug
-    - url: https://blog.cloudflare.com/conntrack-tales-one-thousand-and-one-flows
     - url: https://www.buesing.dev/post/kafka-ssl-certificates
-    - url: https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
-    - url: https://blog.wescale.fr/2020/04/02/vers-linfrastructure-craftsmanship-avec-les-git-hooks
     - url: https://medium.com/better-programming/kafka-acks-explained-c0515b3b707e
     - url: https://github.com/ankane/pgsync
-    - url: https://blog.acolyer.org/2020/02/26/meaningful-availability
     - url: https://enventelibre.org/fr/41-ubuntu-fr
     - url: https://github.com/johnramsden/zectl
     - url: https://github.com/tchiotludo/akhq
@@ -266,7 +267,6 @@
     - url: https://blog.thousandeyes.com/kafka-topics-pitfalls-and-insights
     - url: https://kenney.nl
     - url: https://sematext.com/guides/kubernetes-logging
-    - url: https://www.infoq.com/articles/anatomy-cascading-failure
     - url: https://medium.com/omio-engineering/cpu-limits-and-aggressive-throttling-in-kubernetes-c5b20bd8a718
     - url: https://homehack.nl/activitypub-the-secret-weapon-of-the-fediverse
     - url: https://paulosman.me/2019/12/30/production-oriented-development.html
