@@ -87,6 +87,7 @@
     - url: https://helidon.io
     - url: https://github.com/jOOQ/jOOR
     - url: https://spring.io/blog/2020/06/08/migrating-spring-boot-s-build-to-gradle
+    - url: https://github.com/mvndaemon/mvnd
 - title: Python
   bookmarks:
     - url: https://twitter.com/svpino/status/1308632185113579522
@@ -112,6 +113,7 @@
     - url: https://www.smashingmagazine.com/2020/11/internationalization-localization-static-sites
     - url: https://codurance.com/2020/01/16/backstopjs-tutorial
     - url: https://blog.ippon.fr/2020/05/04/definir-son-style-css-avec-cap
+    - url: https://github.com/jscutlery/test-utils/tree/master/packages/cypress-harness
 - title: System
   bookmarks:
     - title: Ubuntu Amazon EC2 AMI Locator
@@ -234,6 +236,10 @@
     - url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
+    - url: https://metroretro.io
+    - url: https://remoteretro.org
+    - url: https://www.parabol.co
+    - url: https://getferdi.com
     - url: https://debezium.io/blog/2019/12/18/debezium-1-0-0-final-released
     - url: https://twitter.com/qeole/status/1101450782841466880
     - url: https://robertovitillo.com/what-every-developer-should-know-about-tcp
@@ -425,3 +431,14 @@
     - url: https://www.citusdata.com/blog/2016/03/30/five-ways-to-paginate
     - url: https://github.com/tdebatty/java-string-similarity
     - url: https://book.easyperf.net/perf_book
+    - url: https://blog.arkey.fr/2020/12/11/completablefuture-with-burstable-pods
+    - url: https://campusnumerique.auvergnerhonealpes.fr/les-acteurs
+    - url: https://subtitld.jonata.org
+    - url: https://www.bruceeckel.com/2021/01/02/the-problem-with-gradle
+    - url: https://blog.ed.ted.com/2020/03/02/there-are-three-sides-to-every-argument
+    - url: https://blog.yadutaf.fr/2017/07/28/tracing-a-packet-journey-using-linux-tracepoints-perf-ebpf
+    - url: https://twitter.com/fermatslibrary/status/1339922144080367619
+    - url: https://jvns.ca/blog/2021/01/12/day-36--server-sent-events-are-cool--and-a-fun-bug
+    - url: https://blog.ed.ted.com/2020/12/21/how-to-cultivate-a-sense-of-unconditional-self-worth
+    - url: https://github.blog/2020-12-17-commits-are-snapshots-not-diffs
+    - url: https://github.com/DozerMapper/dozer
