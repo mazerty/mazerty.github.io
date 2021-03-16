@@ -17,16 +17,28 @@
       url: https://m.ing.fr/secure/login/cif
     - title: LinkedIn
       url: https://linkedin.com
-    - title: Slack
-      url: https://app.slack.com/client
     - title: Framateam
       url: https://framateam.org
+    - title: TweetDeck
+      url: https://tweetdeck.twitter.com
+    - title: Outlook
+      url: https://outlook.office365.com/mail/inbox
+    - title: SubsPlease
+      url: https://subsplease.org
 - title: JdLL
   bookmarks:
     - title: Pad
       url: https://pad.jdll.org/w/2021
     - title: Nextcloud
       url: https://nextcloud.aldil.org
+- title: ECE
+  bookmarks:
+    - title: Portail
+      url: https://ece.campusonline.me
+    - title: Moodle
+      url: https://pedago-ece.campusonline.me
+    - title: Emploi du temps
+      url: https://planning-lyon.inseecu.net
 - title: Handy
   bookmarks:
     - title: AWS
@@ -37,7 +49,8 @@
       url: https://media.interieur.gouv.fr/deplacement-covid-19
     - title: Speed test
       url: https://speed.cloudflare.com
-    - url: https://www.tunefind.com
+    - title: Tunefind
+      url: https://www.tunefind.com
 - title: Ciné
   bookmarks:
     - title: Confluence
