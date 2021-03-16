@@ -23,8 +23,6 @@
       url: https://tweetdeck.twitter.com
     - title: Outlook
       url: https://outlook.office365.com/mail/inbox
-    - title: SubsPlease
-      url: https://subsplease.org
 - title: JdLL
   bookmarks:
     - title: Pad
@@ -51,6 +49,24 @@
       url: https://speed.cloudflare.com
     - title: Tunefind
       url: https://www.tunefind.com
+- title: Torrent
+  bookmarks:
+    - title: SubsPlease
+      url: https://subsplease.org
+    - title: Zooqle
+      url: https://zooqle.com
+    - title: DHT
+      url: https://www.bittorrent.org/beps/bep_0051.html
+    - title: Hacker News - Magnetico
+      url: https://news.ycombinator.com/item?id=14018877
+- title: Games
+  bookmarks:
+    - title: Morrowind Map
+      url: https://en.uesp.net/maps/mwmap/mwmap.shtml
+    - title: Running the Game, by Matthew Colville
+      url: https://www.youtube.com/playlist?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_
+    - title: 3 Pages par jour
+      url: https://www.3pages.fr
 - title: Ciné
   bookmarks:
     - title: Confluence
@@ -226,22 +242,6 @@
     - url: https://ipfs.io
     - url: https://min.io
     - url: https://www.wireshark.org
-- title: Torrent
-  bookmarks:
-    - title: DHT
-      url: https://www.bittorrent.org/beps/bep_0051.html
-    - title: Hacker News - Magnetico
-      url: https://news.ycombinator.com/item?id=14018877
-    - title: DHT search engine
-      url: https://skytorrents.lol
-- title: Games
-  bookmarks:
-    - title: Morrowind Map
-      url: https://en.uesp.net/maps/mwmap/mwmap.shtml
-    - url: https://www.youtube.com/playlist?list=PLlUk42GiU2guNzWBzxn7hs8MaV7ELLCP_
-    - url: https://www.pcgamer.com/world-of-warcraft-is-the-best-its-ever-been-for-a-solo-player
-    - url: https://www.3pages.fr
-    - url: https://wowup.io
 - title: Curiosity
   bookmarks:
     - url: https://beginners.re
