@@ -61,15 +61,16 @@
       url: https://www.ugc.fr/cinema.html?id=34
     - title: Astoria
       url: https://www.ugc.fr/cinema.html?id=33
-- title: Dev
+- title: Documentation
   bookmarks:
-    - url: https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user
-    - url: https://libraries.io
-    - url: https://jvns.ca/blog/2020/10/26/ninja--a-simple-way-to-do-builds
-    - url: https://conventionalcomments.org
-    - url: https://sourcemaking.com/antipatterns/software-development-antipatterns
-    - url: https://tyrrrz.me/blog/unit-testing-is-overrated
-    - url: https://learnsql.com/blog/sql-window-functions-cheat-sheet
+    - title: "Tales from documentation: Write for your clueless users"
+      url: https://stackoverflow.blog/2020/07/13/tales-from-documentation-write-for-your-dumbest-user
+    - title: Conventional Comments
+      url: https://conventionalcomments.org
+- title: Database
+  bookmarks:
+    - title: SQL Window Functions Cheat Sheet
+      url: https://learnsql.com/blog/sql-window-functions-cheat-sheet
 - title: Java
   bookmarks:
     - title: MapStruct
