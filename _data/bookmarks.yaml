@@ -71,22 +71,26 @@
   bookmarks:
     - title: SQL Window Functions Cheat Sheet
       url: https://learnsql.com/blog/sql-window-functions-cheat-sheet
+- title: Testing
+  bookmarks:
+    - title: Modern best practices for testing (not limited to Java)
+      url: https://phauer.com/2019/modern-best-practices-testing-java
+- title: Performance
+  bookmarks:
+    - title: Tuning Tomcat for a high throughput, fail fast system
+      url: https://netflixtechblog.com/tuning-tomcat-for-a-high-throughput-fail-fast-system-e4d7b2fc163f
 - title: Java
   bookmarks:
     - title: MapStruct
       url: https://mapstruct.org
     - title: Deploying to Maven Central
       url: https://central.sonatype.org/pages/ossrh-guide.html
-    - title: Vaadin Icons
-      url: https://vaadin.com/components/vaadin-icons
-    - url: https://github.com/GoogleContainerTools/jib
-    - url: https://pitest.org
-    - url: https://phauer.com/2019/modern-best-practices-testing-java
-    - url: https://blog.jooq.org/2020/10/13/using-jooq-3-14-synthetic-foreign-keys-to-write-implicit-joins-on-views
-    - url: https://blog.jooq.org/2020/10/09/nesting-collections-with-jooq-3-14s-sql-xml-or-sql-json-support
-    - url: https://netflixtechblog.com/tuning-tomcat-for-a-high-throughput-fail-fast-system-e4d7b2fc163f
-    - url: https://reflectoring.io/spring-boot-docker
-    - url: https://www.clever-cloud.com/blog/engineering/2020/09/09/using-jaas-in-the-cloud-era
+    - title: Creating optimized Docker images for a Spring Boot application
+      url: https://reflectoring.io/spring-boot-docker
+    - title: Mutation testing
+      url: https://pitest.org
+    - title: jOOQ Blog
+      url: https://blog.jooq.org
     - url: https://blog.arkey.fr/2020/06/28/using-jdk-flight-recorder-and-jdk-mission-control
     - url: https://twitter.com/SerCeMan/status/1305783089608548354
     - url: https://www.jetbrains.com/help/idea/analyze-hprof-memory-snapshots.html
@@ -114,6 +118,8 @@
       url: https://web.dev/http-cache
     - title: Site national des adresses
       url: https://adresse.data.gouv.fr
+    - title: Vaadin Icons
+      url: https://vaadin.com/components/vaadin-icons
     - url: https://jvectormap.com
     - url: https://github.com/marmelab/gremlins.js
     - url: https://github.com/google/material-design-icons
@@ -437,7 +443,6 @@
     - url: https://thetechsolo.wordpress.com/2016/02/29/scalable-io-events-vs-multithreading-based
     - url: https://medium.com/@ankane/introducing-dexter-the-automatic-indexer-for-postgres-5f8fa8b28f27
     - url: https://sites.google.com/a/athaydes.com/renato-athaydes/posts/kotlinshiddencosts-benchmarks
-    - url: https://blog.jooq.org/2015/12/03/reactive-database-access-part-1-why-async
     - url: https://ctop.sh
     - url: https://github.com/nicolargo/glances
     - url: https://peteris.rocks/blog/htop
