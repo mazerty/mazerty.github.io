@@ -89,21 +89,10 @@
       url: https://pitest.org
     - title: jOOQ Blog
       url: https://blog.jooq.org
-    - url: https://blog.arkey.fr/2020/06/28/using-jdk-flight-recorder-and-jdk-mission-control
-    - url: https://twitter.com/SerCeMan/status/1305783089608548354
-    - url: https://www.jetbrains.com/help/idea/analyze-hprof-memory-snapshots.html
-    - url: https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications
-    - url: https://dagger.dev
-    - url: https://github.com/google/guice
-    - url: https://javalin.io
-    - url: https://sparkjava.com
-    - url: https://github.com/resilience4j/resilience4j
-    - url: https://github.com/making/yavi
-    - url: https://jdbi.org
-    - url: https://helidon.io
-    - url: https://github.com/jOOQ/jOOR
-    - url: https://spring.io/blog/2020/06/08/migrating-spring-boot-s-build-to-gradle
-    - url: https://github.com/mvndaemon/mvnd
+    - title: Resilience4j, functional programming based on Vavr
+      url: https://github.com/resilience4j/resilience4j
+    - title: YAVI, lambda-based type-safe validation
+      url: https://github.com/making/yavi
 - title: Documentation
   bookmarks:
     - title: "Tales from documentation: Write for your clueless users"
@@ -122,6 +111,14 @@
   bookmarks:
     - title: Tuning Tomcat for a high throughput, fail fast system
       url: https://netflixtechblog.com/tuning-tomcat-for-a-high-throughput-fail-fast-system-e4d7b2fc163f
+    - title: Using JDK FlightRecorder and JDK Mission Control
+      url: https://blog.arkey.fr/2020/06/28/using-jdk-flight-recorder-and-jdk-mission-control
+    - title: Thread about async profiler
+      url: https://twitter.com/SerCeMan/status/1305783089608548354
+    - title: Analyze memory snapshots in IntelliJ
+      url: https://www.jetbrains.com/help/idea/analyze-hprof-memory-snapshots.html
+    - title: 7 JVM arguments of highly effective applications
+      url: https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications
 - title: Python
   bookmarks:
     - url: https://twitter.com/svpino/status/1308632185113579522
@@ -242,6 +239,18 @@
     - url: https://ipfs.io
     - url: https://min.io
     - url: https://www.wireshark.org
+- title: Alternatives
+  bookmarks:
+    - title: Dagger, Java dependency injection
+      url: https://dagger.dev
+    - title: Guice, Java dependency injection
+      url: https://github.com/google/guice
+    - title: Javalin, Java web framework
+      url: https://javalin.io
+    - title: Spark, Java web framework
+      url: https://sparkjava.com
+    - title: Helidon, Java web framework
+      url: https://helidon.io
 - title: Curiosity
   bookmarks:
     - url: https://beginners.re
