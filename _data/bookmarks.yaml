@@ -119,6 +119,8 @@
       url: https://www.jetbrains.com/help/idea/analyze-hprof-memory-snapshots.html
     - title: 7 JVM arguments of highly effective applications
       url: https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications
+    - title: Python profiling
+      url: https://github.com/benfred/py-spy
 - title: Python
   bookmarks:
     - title: 10 Python 3 features
@@ -315,7 +317,6 @@
     - url: https://github.com/imsnif/bandwhich
     - url: https://markmcb.com/2020/01/07/five-years-of-btrfs
     - url: https://rockset.com/blog/rocksdb-is-eating-the-database-world
-    - url: https://blog.sqreen.com/top-10-python-security-best-practices
     - url: https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7
     - url: https://sizle.io/how-to-maximise-traffic-to-a-bootstrapped-product-hunt-launch
     - url: https://www.pingtimeout.fr/posts/2020-01-12-limit-vm-bandwidth
@@ -339,7 +340,6 @@
     - url: https://medium.com/nerds-malt/https-medium-com-nerds-malt-devops-retour-sur-un-downtime-redis-kubernetes-en-production-8cd5bfcc53d
     - url: https://blog.acolyer.org/2019/11/06/ceph-evolution
     - url: https://www.redhat.com/en/engage/kubernetes-containers-architecture-s-201910240918
-    - url: https://chriswhocodes.com/hotspot_options_jdk14.html
     - url: https://srvaroa.github.io/kubernetes/migration/latency/dns/java/aws/microservices/2019/10/22/kubernetes-added-a-0-to-my-latency.html
     - url: https://www.infoq.com/presentations/low-latency-cloud-oss
     - url: https://github.com/apangin/jattach
@@ -383,7 +383,6 @@
     - url: https://vincent.bernat.ch/en/blog/2019-pragmatic-debian-packaging
     - url: https://ilaborie.github.io/slides2/cssClockwork/index-mixit-19.html
     - url: https://medium.com/@emaildelivery/serverless-pitfalls-issues-you-may-encounter-running-a-start-up-on-aws-lambda-f242b404f41c
-    - url: https://github.com/cool-RR/pysnooper
     - url: https://medium.com/@boukili.olivier/a-gcp-kubernetes-production-migration-retrospective-part-1-e3e35096073a
     - url: https://www.conduktor.io
     - url: https://rachelcarmena.github.io/2019/04/26/does-and-donts-when-writing-tests.html
@@ -428,7 +427,6 @@
     - url: https://opensource.com/article/18/10/alerting-and-visualization-tools-sysadmins
     - url: https://www.datadoghq.com/blog/aws-monitoring
     - url: https://github.com/alibaba/arthas
-    - url: https://github.com/benfred/py-spy
     - url: https://remysharp.com/2018/08/23/cli-improved
     - url: https://medium.com/@hugo.oliveira.rocha/what-they-dont-tell-you-about-event-sourcing-6afc23c69e9a
     - url: https://github.blog/2018-08-08-glb-director-open-source-load-balancer
