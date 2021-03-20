@@ -121,10 +121,12 @@
       url: https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications
 - title: Python
   bookmarks:
-    - url: https://twitter.com/svpino/status/1308632185113579522
-    - url: https://github.blog/2020-11-20-nbdev-a-literate-programming-environment-that-democratizes-software-engineering-best-practices
-    - url: https://martinheinz.dev/blog/24
-    - url: https://github.com/willmcgugan/rich
+    - title: 10 Python 3 features
+      url: https://twitter.com/svpino/status/1308632185113579522
+    - title: Ultimate guide to Python debugging
+      url: https://martinheinz.dev/blog/24
+    - title: Rich text formatting in the terminal
+      url: https://github.com/willmcgugan/rich
 - title: Web
   bookmarks:
     - title: HTTP Cache
