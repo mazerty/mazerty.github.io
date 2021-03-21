@@ -133,24 +133,26 @@
   bookmarks:
     - title: HTTP Cache
       url: https://web.dev/http-cache
-    - title: Site national des adresses
-      url: https://adresse.data.gouv.fr
     - title: Vaadin Icons
       url: https://vaadin.com/components/vaadin-icons
-    - url: https://jvectormap.com
-    - url: https://github.com/marmelab/gremlins.js
-    - url: https://github.com/google/material-design-icons
-    - url: https://togetherjs.com
-    - url: https://openlogos.org
-    - url: https://mybrandnewlogo.com
-    - url: https://uidesigndaily.com
-    - url: https://github.com/MontFerret/ferret
-    - url: https://github.com/transloadit/uppy
-    - url: https://thoughtbot.com/blog/tailwind-versus-bem
-    - url: https://www.smashingmagazine.com/2020/11/internationalization-localization-static-sites
-    - url: https://codurance.com/2020/01/16/backstopjs-tutorial
-    - url: https://blog.ippon.fr/2020/05/04/definir-son-style-css-avec-cap
-    - url: https://github.com/jscutlery/test-utils/tree/master/packages/cypress-harness
+    - title: Gremlins.js, monkey testing
+      url: https://github.com/marmelab/gremlins.js
+    - title: Material Design icons
+      url: https://github.com/google/material-design-icons
+    - title: TogetherJS, collaboration features
+      url: https://togetherjs.com
+    - title: UI Design Daily
+      url: https://uidesigndaily.com
+    - title: Uppy, file uploader with integrations
+      url: https://github.com/transloadit/uppy
+    - title: Tailwind versus BEM
+      url: https://thoughtbot.com/blog/tailwind-versus-bem
+    - title: Internationalization and localization for static sites
+      url: https://www.smashingmagazine.com/2020/11/internationalization-localization-static-sites
+    - title: Testing for visual regressions with BackstopJS
+      url: https://codurance.com/2020/01/16/backstopjs-tutorial
+    - title: Définir son style CSS avec CAP
+      url: https://blog.ippon.fr/2020/05/04/definir-son-style-css-avec-cap
 - title: System
   bookmarks:
     - title: Ubuntu Amazon EC2 AMI Locator
@@ -257,6 +259,8 @@
       url: https://helidon.io
 - title: Curiosity
   bookmarks:
+    - title: Site national des adresses
+      url: https://adresse.data.gouv.fr
     - url: https://beginners.re
     - url: https://github.com/curlpipe/ox
     - url: https://github.com/quilljs/quill
