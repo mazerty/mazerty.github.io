@@ -103,6 +103,8 @@
   bookmarks:
     - title: SQL Window Functions Cheat Sheet
       url: https://learnsql.com/blog/sql-window-functions-cheat-sheet
+    - title: How we upgraded PostgreSQL at GitLab
+      url: https://about.gitlab.com/blog/2020/09/11/gitlab-pg-upgrade
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -121,6 +123,12 @@
       url: https://blog.gceasy.io/2020/03/18/7-jvm-arguments-of-highly-effective-applications
     - title: Python profiling
       url: https://github.com/benfred/py-spy
+    - title: Linux performance analysis tools
+      url: https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
+    - title: "How to measure Linux performance, avoiding most typical mistakes: CPU"
+      url: https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-cpu
+    - title: PostgreSQL observability
+      url: https://pgstats.dev
 - title: Python
   bookmarks:
     - title: 10 Python 3 features
@@ -157,34 +165,32 @@
   bookmarks:
     - title: Ubuntu Amazon EC2 AMI Locator
       url: https://cloud-images.ubuntu.com/locator/ec2
-    - title: Vim Cheat Sheet
-      url: https://vim.rtorr.com
     - title: Git from the inside out
       url: https://maryrosecook.com/blog/post/git-from-the-inside-out
-    - title: Debian packages
+    - title: Debian packaging
       url: https://www.debian.org/doc/manuals/developers-reference/pkgs.html
-    - title: Ubuntu packages
+    - title: Ubuntu packaging
       url: https://packaging.ubuntu.com/html/index.html
-    - title: Debian Python packages
-      url: https://www.debian.org/doc/packaging-manuals/python-policy/ch-module_packages.html
-    - url: https://korben.info/gagnez-encore-plus-de-temps-avec-votre-terminal.html
-    - url: https://explainshell.com
-    - url: https://netflixtechblog.com/linux-performance-analysis-in-60-000-milliseconds-accc10403c55
-    - url: https://ssl-config.mozilla.org
-    - url: https://github.com/ventoy/Ventoy
-    - url: https://korben.info/creer-depot-miroir-debian.html
-    - url: https://nixos.org
-    - url: https://natanyellin.com/posts/tracking-running-processes-on-linux
-    - url: https://github.com/aristocratos/bpytop
-    - url: https://about.gitlab.com/blog/2020/09/11/gitlab-pg-upgrade
-    - url: https://github.com/wagoodman/dive
-    - url: https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-cpu
-    - url: https://www.cyberciti.biz/open-source/command-line-hacks/bashtop-awesome-linux-resource-monitor-tool
-    - url: https://pgstats.dev
-    - url: https://korben.info/limitez-bande-passante-linux-trickle.html
-    - url: https://eng.uber.com/postgres-to-mysql-migration
-    - url: https://jvns.ca/blog/2020/06/28/entr
-    - url: https://www.damyr.fr/posts/podman-par-la-pratique
+    - title: Explain shell command-line
+      url: https://explainshell.com
+    - title: Vector, Netflix's on-host performance monitoring tool
+      url: https://netflixtechblog.com/introducing-vector-netflixs-on-host-performance-monitoring-tool-c0d3058c3f6f
+    - title: SSL Configuration Generator
+      url: https://ssl-config.mozilla.org
+    - title: Ventoy, multi-ISO bootable USB drive
+      url: https://github.com/ventoy/Ventoy
+    - title: NixOS
+      url: https://nixos.org
+    - title: The difficulties of tracking running processes on Linux
+      url: https://natanyellin.com/posts/tracking-running-processes-on-linux
+    - title: Dive, exploring each layer in a Docker image
+      url: https://github.com/wagoodman/dive
+    - title: Trickle, lightweight userspace bandwidth shaper
+      url: https://linux.die.net/man/1/trickle
+    - title: entr, run arbitrary commands when files change
+      url: https://eradman.com/entrproject
+    - title: Podman par la pratique
+      url: https://www.damyr.fr/posts/podman-par-la-pratique
 - title: Reading
   bookmarks:
     - url: https://www.patkua.com/blog/multipliers
@@ -219,6 +225,7 @@
     - url: https://blog.acolyer.org/2020/02/26/meaningful-availability
     - url: https://www.infoq.com/articles/anatomy-cascading-failure
     - url: https://www.stemlaur.com/blog/2020/05/28/tech-adr
+    - url: https://eng.uber.com/postgres-to-mysql-migration
 - title: Software
   bookmarks:
     - url: https://github.com/bitwarden/server
@@ -266,6 +273,7 @@
     - url: https://github.com/quilljs/quill
     - url: https://replicastudios.com
     - url: https://gitlab.com/edouardklein/falsisign
+    - url: https://github.com/aristocratos/bpytop
 - title: Job
   bookmarks:
     - url: https://indeed.fr
