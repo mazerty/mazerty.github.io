@@ -17,14 +17,14 @@
       url: https://m.ing.fr/secure/login/cif
     - title: LinkedIn
       url: https://linkedin.com
-    - title: Framateam
-      url: https://framateam.org
     - title: TweetDeck
       url: https://tweetdeck.twitter.com
     - title: Outlook
       url: https://outlook.office365.com/mail/inbox
 - title: JdLL
   bookmarks:
+    - title: Framateam
+      url: https://framateam.org
     - title: Pad
       url: https://pad.jdll.org/w/2021
     - title: Nextcloud
@@ -201,7 +201,6 @@
       url: https://roadmap.sh/devops
 - title: Reading
   bookmarks:
-    - url: https://www.miximum.fr/blog/developpeur-web-freelance-tjm
     - url: https://vlfig.me/posts/microservices
     - url: https://medium.com/@skamille/the-management-flywheel-c076f398969b
     - url: https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack
@@ -280,6 +279,8 @@
     - url: https://github.com/aristocratos/bpytop
 - title: Job
   bookmarks:
+    - titre: "Freelances : bien fixer, annoncer et négocier vos tarifs"
+      url: https://www.miximum.fr/blog/developpeur-web-freelance-tjm
     - url: https://indeed.fr
     - url: https://talent.io
     - url: https://www.laou.fr
