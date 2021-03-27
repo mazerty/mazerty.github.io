@@ -191,12 +191,16 @@
       url: https://eradman.com/entrproject
     - title: Podman par la pratique
       url: https://www.damyr.fr/posts/podman-par-la-pratique
+- title: Lead
+  bookmarks:
+    - title: Multipliers and Diminishers
+      url: https://www.patkua.com/blog/multipliers
+    - title: The future of Ops careers
+      url: https://thenewstack.io/the-future-of-ops-careers
+    - title: DevOps Roadmap
+      url: https://roadmap.sh/devops
 - title: Reading
   bookmarks:
-    - url: https://www.patkua.com/blog/multipliers
-    - url: https://thenewstack.io/the-future-of-ops-careers
-    - url: https://www.ufried.com/blog/purpose_of_architecture
-    - url: https://roadmap.sh/devops
     - url: https://www.miximum.fr/blog/developpeur-web-freelance-tjm
     - url: https://vlfig.me/posts/microservices
     - url: https://medium.com/@skamille/the-management-flywheel-c076f398969b
