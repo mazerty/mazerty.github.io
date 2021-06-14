@@ -105,6 +105,8 @@
       url: https://learnsql.com/blog/sql-window-functions-cheat-sheet
     - title: How we upgraded PostgreSQL at GitLab
       url: https://about.gitlab.com/blog/2020/09/11/gitlab-pg-upgrade
+    - title: Multi-Master Replication Solutions for PostgreSQL
+      url: https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -199,19 +201,22 @@
       url: https://thenewstack.io/the-future-of-ops-careers
     - title: DevOps Roadmap
       url: https://roadmap.sh/devops
+    - title: The Management Flywheel
+      url: https://medium.com/@skamille/the-management-flywheel-c076f398969b
+    - title: Improving Postmortems
+      url: https://www.blameless.com/blog/improving-postmortems-paul-osman
+    - title: Alerting on SLOs
+      url: https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
+- title: Distributed Systems
+  bookmarks:
+    - title: Microservices - Architecture nihilism in minimalism's clothes
+      url: https://vlfig.me/posts/microservices
+    - title: A terrible, horrible, no-good, very bad day at Slack
+      url: https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack
+    - title: The Laws of Architectural Work
+      url: https://www.ufried.com/blog/laws_of_architectural_work
 - title: Reading
   bookmarks:
-    - url: https://vlfig.me/posts/microservices
-    - url: https://medium.com/@skamille/the-management-flywheel-c076f398969b
-    - url: https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack
-    - url: https://bpetit.nce.re/fr/2020/08/pourquoi-jai-quitt%C3%A9-mon-job-qui-avait-tout-pour-plaire
-    - url: https://codeopinion.com/loosely-coupled-monolith
-    - url: https://www.blameless.com/blog/improving-postmortems-paul-osman
-    - url: https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/ten-antipatterns-that-are-derailing-technology-transformations
-    - url: https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql
-    - url: https://eventuallycoding.com/2020/08/07/bataille-autour-des-donnees-et-du-cloud
-    - url: https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
-    - url: https://www.ufried.com/blog/laws_of_architectural_work
     - url: https://medium.com/the-elegant-network/what-ive-learned-about-scaling-ospf-in-datacenters-7100c33ce63c
     - url: https://jepsen.io/consistency
     - url: https://queue.acm.org/detail.cfm?id=3404974
