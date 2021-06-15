@@ -207,6 +207,10 @@
       url: https://www.blameless.com/blog/improving-postmortems-paul-osman
     - title: Alerting on SLOs
       url: https://mads-hartmann.com/sre/2020/09/08/alerting-on-slos.html
+    - title: Je fais partie d'une espèce menacée d'extinction
+      url: https://www.emaxilde.net/posts/2020/07/18/je-fais-partie-d-une-espece-menacee-d-extinction.html
+    - title: How to structure teams for building better software products
+      url: https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d
 - title: Distributed Systems
   bookmarks:
     - title: Microservices - Architecture nihilism in minimalism's clothes
@@ -215,14 +219,14 @@
       url: https://slack.engineering/a-terrible-horrible-no-good-very-bad-day-at-slack
     - title: The Laws of Architectural Work
       url: https://www.ufried.com/blog/laws_of_architectural_work
+    - title: Consitency Models
+      url: https://jepsen.io/consistency
+    - title: Debugging incidents in Google's distributed systems
+      url: https://queue.acm.org/detail.cfm?id=3404974
+    - title: Stop overselling Event Sourcing as the silver bullet to microservice architectures
+      url: https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7
 - title: Reading
   bookmarks:
-    - url: https://medium.com/the-elegant-network/what-ive-learned-about-scaling-ospf-in-datacenters-7100c33ce63c
-    - url: https://jepsen.io/consistency
-    - url: https://queue.acm.org/detail.cfm?id=3404974
-    - url: https://www.emaxilde.net/posts/2020/07/18/je-fais-partie-d-une-espece-menacee-d-extinction.html
-    - url: https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7
-    - url: https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d
     - url: https://archiloque.net/blog/problemes-et-solutions
     - url: https://medium.com/radio-france-engineering/on-demand-ci-cd-with-gitlab-and-kubernetes-1d395105ac45
     - url: https://deniseyu.io/2020/05/21/talking-about-software-at-scale.html
@@ -255,6 +259,8 @@
     - url: https://www.gov.uk/guidance/protect-domains-that-dont-send-email
 - title: Network
   bookmarks:
+    - title: What I've learned about scaling OSPF in datacenters
+      url: https://medium.com/the-elegant-network/what-ive-learned-about-scaling-ospf-in-datacenters-7100c33ce63c
     - url: https://github.com/butlerx/wetty
     - url: https://www.freelan.org
     - url: https://ipfs.io
