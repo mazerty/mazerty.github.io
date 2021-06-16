@@ -107,6 +107,8 @@
       url: https://about.gitlab.com/blog/2020/09/11/gitlab-pg-upgrade
     - title: Multi-Master Replication Solutions for PostgreSQL
       url: https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql
+    - title: 10 Things I Hate About PostgreSQL
+      url: https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -227,12 +229,6 @@
       url: https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7
 - title: Reading
   bookmarks:
-    - url: https://archiloque.net/blog/problemes-et-solutions
-    - url: https://medium.com/radio-france-engineering/on-demand-ci-cd-with-gitlab-and-kubernetes-1d395105ac45
-    - url: https://deniseyu.io/2020/05/21/talking-about-software-at-scale.html
-    - url: https://www.weave.works/blog/gitops-part-3-observability
-    - url: https://blog.cloudflare.com/conntrack-tales-one-thousand-and-one-flows
-    - url: https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
     - url: https://blog.wescale.fr/2020/04/02/vers-linfrastructure-craftsmanship-avec-les-git-hooks
     - url: https://blog.acolyer.org/2020/02/26/meaningful-availability
     - url: https://www.infoq.com/articles/anatomy-cascading-failure
@@ -261,6 +257,8 @@
   bookmarks:
     - title: What I've learned about scaling OSPF in datacenters
       url: https://medium.com/the-elegant-network/what-ive-learned-about-scaling-ospf-in-datacenters-7100c33ce63c
+    - title: Conntrack tales - one thousand and one flows
+      url: https://blog.cloudflare.com/conntrack-tales-one-thousand-and-one-flows
     - url: https://github.com/butlerx/wetty
     - url: https://www.freelan.org
     - url: https://ipfs.io
