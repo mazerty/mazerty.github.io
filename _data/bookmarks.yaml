@@ -109,6 +109,8 @@
       url: https://www.percona.com/blog/2020/06/09/multi-master-replication-solutions-for-postgresql
     - title: 10 Things I Hate About PostgreSQL
       url: https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
+    - title: Why Uber Engineering switched from PostgreSQL to MySQL
+      url: https://eng.uber.com/postgres-to-mysql-migration
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -133,6 +135,8 @@
       url: https://ma.ttias.be/how-to-measure-linux-performance-avoiding-most-typical-mistakes-cpu
     - title: PostgreSQL observability
       url: https://pgstats.dev
+    - title: Meaningful availability
+      url: https://blog.acolyer.org/2020/02/26/meaningful-availability
 - title: Python
   bookmarks:
     - title: 10 Python 3 features
@@ -213,6 +217,10 @@
       url: https://www.emaxilde.net/posts/2020/07/18/je-fais-partie-d-une-espece-menacee-d-extinction.html
     - title: How to structure teams for building better software products
       url: https://medium.com/swlh/how-to-structure-teams-for-building-better-software-products-91e4dea021d
+    - title: Vers l'Infrastructure Craftsmanship avec les Git Hooks
+      url: https://blog.wescale.fr/2020/04/02/vers-linfrastructure-craftsmanship-avec-les-git-hooks
+    - title: Architecture Decision Records
+      url: https://www.stemlaur.com/blog/2020/05/28/tech-adr
 - title: Distributed Systems
   bookmarks:
     - title: Microservices - Architecture nihilism in minimalism's clothes
@@ -227,13 +235,8 @@
       url: https://queue.acm.org/detail.cfm?id=3404974
     - title: Stop overselling Event Sourcing as the silver bullet to microservice architectures
       url: https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7
-- title: Reading
-  bookmarks:
-    - url: https://blog.wescale.fr/2020/04/02/vers-linfrastructure-craftsmanship-avec-les-git-hooks
-    - url: https://blog.acolyer.org/2020/02/26/meaningful-availability
-    - url: https://www.infoq.com/articles/anatomy-cascading-failure
-    - url: https://www.stemlaur.com/blog/2020/05/28/tech-adr
-    - url: https://eng.uber.com/postgres-to-mysql-migration
+    - title: How to avoid cascading failures in distributed systems
+      url: https://www.infoq.com/articles/anatomy-cascading-failure
 - title: Software
   bookmarks:
     - url: https://github.com/bitwarden/server
