@@ -111,6 +111,8 @@
       url: https://medium.com/@rbranson/10-things-i-hate-about-postgresql-20dbab8c2791
     - title: Why Uber Engineering switched from PostgreSQL to MySQL
       url: https://eng.uber.com/postgres-to-mysql-migration
+    - title: The myth of NoSQL (vs. RDBMS) "joins dont scale"
+      url: https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -237,16 +239,15 @@
       url: https://medium.com/swlh/stop-overselling-event-sourcing-as-the-silver-bullet-to-microservice-architectures-f43ca25ff9e7
     - title: How to avoid cascading failures in distributed systems
       url: https://www.infoq.com/articles/anatomy-cascading-failure
+    - title: Kafka vs. Pulsar
+      url: https://twitter.com/stadtlegende/status/1300461546578087936
 - title: Software
   bookmarks:
     - url: https://github.com/bitwarden/server
     - url: https://github.com/theonedev/onedev
     - url: https://www.graylog.org
-    - url: https://twitter.com/stadtlegende/status/1300461546578087936
-    - url: https://github.com/segmentio/topicctl
     - url: https://www.confluent.io/blog/kafka-fastest-messaging-system
     - url: https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log
-    - url: https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale
     - url: https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill
     - url: https://www.confluent.io/blog/ksqldb-ensures-consistent-internal-state-reliability-recovery-using-kafka-transactions
 - title: Security
