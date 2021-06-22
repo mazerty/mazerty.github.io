@@ -241,15 +241,22 @@
       url: https://www.infoq.com/articles/anatomy-cascading-failure
     - title: Kafka vs. Pulsar
       url: https://twitter.com/stadtlegende/status/1300461546578087936
-- title: Software
+    - title: Benchmarking Apache Kafka, Apache Pulsar and RabbitMQ
+      url: https://www.confluent.io/blog/kafka-fastest-messaging-system
+    - title: "Waltz: a distributed write-ahead log"
+      url: https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log
+    - title: Can your Kafka consumers handle a poison pill?
+      url: https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill
+    - title: Consistent metastore recovery for ksqlDB using Apache Kafka transactions
+      url: https://www.confluent.io/blog/ksqldb-ensures-consistent-internal-state-reliability-recovery-using-kafka-transactions
+- title: POC
   bookmarks:
-    - url: https://github.com/bitwarden/server
-    - url: https://github.com/theonedev/onedev
-    - url: https://www.graylog.org
-    - url: https://www.confluent.io/blog/kafka-fastest-messaging-system
-    - url: https://wecode.wepay.com/posts/waltz-a-distributed-write-ahead-log
-    - url: https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill
-    - url: https://www.confluent.io/blog/ksqldb-ensures-consistent-internal-state-reliability-recovery-using-kafka-transactions
+    - title: Bitwarden
+      url: https://github.com/bitwarden
+    - title: Onedev
+      url: https://code.onedev.io
+    - title: Graylog
+      url: https://www.graylog.org
 - title: Security
   bookmarks:
     - url: https://www.whonix.org
