@@ -259,13 +259,18 @@
       url: https://www.graylog.org
     - title: Searx
       url: https://searx.me
+    - title: Whonix
+      url: https://www.whonix.org
 - title: Security
   bookmarks:
-    - url: https://www.whonix.org
-    - url: https://github.com/stamparm/maltrail
-    - url: https://www.root-me.org
-    - url: https://blog.wescale.fr/2020/09/24/scanner-les-vulnerabilites-de-son-site-web
-    - url: https://www.gov.uk/guidance/protect-domains-that-dont-send-email
+    - title: Maltrail
+      url: https://github.com/stamparm/maltrail
+    - title: Root Me
+      url: https://www.root-me.org
+    - title: Scanner les vulnérabilités de son site web
+      url: https://blog.wescale.fr/2020/09/24/scanner-les-vulnerabilites-de-son-site-web
+    - title: Protect domains that do not send email
+      url: https://www.gov.uk/guidance/protect-domains-that-dont-send-email
 - title: Network
   bookmarks:
     - title: What I've learned about scaling OSPF in datacenters
