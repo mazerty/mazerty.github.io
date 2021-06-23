@@ -257,6 +257,8 @@
       url: https://code.onedev.io
     - title: Graylog
       url: https://www.graylog.org
+    - title: Searx
+      url: https://searx.me
 - title: Security
   bookmarks:
     - url: https://www.whonix.org
