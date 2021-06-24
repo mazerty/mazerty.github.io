@@ -261,6 +261,12 @@
       url: https://searx.me
     - title: Whonix
       url: https://www.whonix.org
+    - title: WeTTY
+      url: https://github.com/butlerx/wetty
+    - title: Freelan
+      url: https://www.freelan.org
+    - title: MinIO
+      url: https://min.io
 - title: Security
   bookmarks:
     - title: Maltrail
@@ -277,11 +283,8 @@
       url: https://medium.com/the-elegant-network/what-ive-learned-about-scaling-ospf-in-datacenters-7100c33ce63c
     - title: Conntrack tales - one thousand and one flows
       url: https://blog.cloudflare.com/conntrack-tales-one-thousand-and-one-flows
-    - url: https://github.com/butlerx/wetty
-    - url: https://www.freelan.org
-    - url: https://ipfs.io
-    - url: https://min.io
-    - url: https://www.wireshark.org
+    - title: Wireshark
+      url: https://www.wireshark.org
 - title: Alternatives
   bookmarks:
     - title: Dagger, Java dependency injection
@@ -530,3 +533,4 @@
     - url: https://storybook.js.org
     - url: https://atomix.io
     - url: https://ratis.apache.org
+    - url: https://ipfs.io
