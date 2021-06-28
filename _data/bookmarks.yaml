@@ -171,6 +171,8 @@
       url: https://codurance.com/2020/01/16/backstopjs-tutorial
     - title: Définir son style CSS avec CAP
       url: https://blog.ippon.fr/2020/05/04/definir-son-style-css-avec-cap
+    - title: Quill
+      url: https://github.com/quilljs/quill
 - title: System
   bookmarks:
     - title: Ubuntu Amazon EC2 AMI Locator
@@ -267,6 +269,8 @@
       url: https://www.freelan.org
     - title: MinIO
       url: https://min.io
+    - title: bpytop
+      url: https://github.com/aristocratos/bpytop
 - title: Security
   bookmarks:
     - title: Maltrail
@@ -301,12 +305,12 @@
   bookmarks:
     - title: Site national des adresses
       url: https://adresse.data.gouv.fr
-    - url: https://beginners.re
-    - url: https://github.com/curlpipe/ox
-    - url: https://github.com/quilljs/quill
-    - url: https://replicastudios.com
-    - url: https://gitlab.com/edouardklein/falsisign
-    - url: https://github.com/aristocratos/bpytop
+    - title: Reverse Engineering for Beginners
+      url: https://beginners.re
+    - title: AI Voice Actors
+      url: https://replicastudios.com
+    - title: FalsiSign
+      url: https://gitlab.com/edouardklein/falsisign
 - title: Job
   bookmarks:
     - titre: "Freelances : bien fixer, annoncer et négocier vos tarifs"
