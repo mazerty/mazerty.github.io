@@ -313,11 +313,14 @@
       url: https://gitlab.com/edouardklein/falsisign
 - title: Job
   bookmarks:
-    - titre: "Freelances : bien fixer, annoncer et négocier vos tarifs"
+    - title: "Freelances : bien fixer, annoncer et négocier vos tarifs"
       url: https://www.miximum.fr/blog/developpeur-web-freelance-tjm
-    - url: https://indeed.fr
-    - url: https://talent.io
-    - url: https://www.laou.fr
+    - title: Indeed
+      url: https://indeed.fr
+    - title: talent.io
+      url: https://talent.io
+    - title: Laou
+      url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
     - url: https://metroretro.io
