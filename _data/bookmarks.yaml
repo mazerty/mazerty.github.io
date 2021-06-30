@@ -271,6 +271,12 @@
       url: https://min.io
     - title: bpytop
       url: https://github.com/aristocratos/bpytop
+    - title: Metro Retro
+      url: https://metroretro.io
+    - title: Remote Retro
+      url: https://remoteretro.org
+    - title: Parabol
+      url: https://www.parabol.co
 - title: Security
   bookmarks:
     - title: Maltrail
@@ -323,9 +329,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://metroretro.io
-    - url: https://remoteretro.org
-    - url: https://www.parabol.co
     - url: https://getferdi.com
     - url: https://debezium.io/blog/2019/12/18/debezium-1-0-0-final-released
     - url: https://twitter.com/qeole/status/1101450782841466880
