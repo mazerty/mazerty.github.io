@@ -113,6 +113,8 @@
       url: https://eng.uber.com/postgres-to-mysql-migration
     - title: The myth of NoSQL (vs. RDBMS) "joins dont scale"
       url: https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale
+    - title: Debezium
+      url: https://debezium.io
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -295,6 +297,8 @@
       url: https://blog.cloudflare.com/conntrack-tales-one-thousand-and-one-flows
     - title: Wireshark
       url: https://www.wireshark.org
+    - title: What every developer should know about TCP
+      url: https://robertovitillo.com/what-every-developer-should-know-about-tcp
 - title: Alternatives
   bookmarks:
     - title: Dagger, Java dependency injection
@@ -329,11 +333,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://getferdi.com
-    - url: https://debezium.io/blog/2019/12/18/debezium-1-0-0-final-released
-    - url: https://twitter.com/qeole/status/1101450782841466880
-    - url: https://robertovitillo.com/what-every-developer-should-know-about-tcp
-    - url: https://www.confluent.io/kafka-vs-pulsar
     - url: https://medium.com/trendyol-tech/transaction-log-tailing-with-debezium-part-1-aeb968d72220
     - url: https://renenyffenegger.ch/notes/Linux/shell/commands/faketime
     - url: https://www.openpolicyagent.org
