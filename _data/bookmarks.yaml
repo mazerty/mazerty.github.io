@@ -115,6 +115,8 @@
       url: https://blog.dbi-services.com/the-myth-of-nosql-vs-rdbms-joins-dont-scale
     - title: Debezium
       url: https://debezium.io
+    - title: The Internals of PostgreSQL
+      url: https://www.interdb.jp/pg
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -205,6 +207,8 @@
       url: https://eradman.com/entrproject
     - title: Podman par la pratique
       url: https://www.damyr.fr/posts/podman-par-la-pratique
+    - title: faketime
+      url: https://renenyffenegger.ch/notes/Linux/shell/commands/faketime
 - title: Lead
   bookmarks:
     - title: Multipliers and Diminishers
@@ -279,6 +283,8 @@
       url: https://remoteretro.org
     - title: Parabol
       url: https://www.parabol.co
+    - title: Open Policy Agent
+      url: https://www.openpolicyagent.org
 - title: Security
   bookmarks:
     - title: Maltrail
@@ -333,11 +339,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://medium.com/trendyol-tech/transaction-log-tailing-with-debezium-part-1-aeb968d72220
-    - url: https://renenyffenegger.ch/notes/Linux/shell/commands/faketime
-    - url: https://www.openpolicyagent.org
-    - url: https://twitter.com/umaar/status/1260182825573191680
-    - url: https://www.interdb.jp/pg
     - url: https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set
     - url: https://medium.com/@simon.aubury/kafka-with-avro-vs-kafka-with-protobuf-vs-kafka-with-json-schema-667494cbb2af
     - url: https://blog.wescale.fr/2020/04/30/valider-statiquement-son-code-terraform
