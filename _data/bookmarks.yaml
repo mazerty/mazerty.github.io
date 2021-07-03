@@ -209,6 +209,8 @@
       url: https://www.damyr.fr/posts/podman-par-la-pratique
     - title: faketime
       url: https://renenyffenegger.ch/notes/Linux/shell/commands/faketime
+    - title: "Intel Virtualization: How VT-x, KVM and QEMU Work Together"
+      url: https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together
 - title: Lead
   bookmarks:
     - title: Multipliers and Diminishers
@@ -257,6 +259,8 @@
       url: https://www.confluent.io/blog/spring-kafka-can-your-kafka-consumers-handle-a-poison-pill
     - title: Consistent metastore recovery for ksqlDB using Apache Kafka transactions
       url: https://www.confluent.io/blog/ksqldb-ensures-consistent-internal-state-reliability-recovery-using-kafka-transactions
+    - title: Kafka with AVRO vs. Protobuf vs. JSON Schema
+      url: https://medium.com/@simon.aubury/kafka-with-avro-vs-kafka-with-protobuf-vs-kafka-with-json-schema-667494cbb2af
 - title: POC
   bookmarks:
     - title: Bitwarden
@@ -339,11 +343,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://solarsystem.nasa.gov/resources/925/solar-system-and-beyond-poster-set
-    - url: https://medium.com/@simon.aubury/kafka-with-avro-vs-kafka-with-protobuf-vs-kafka-with-json-schema-667494cbb2af
-    - url: https://blog.wescale.fr/2020/04/30/valider-statiquement-son-code-terraform
-    - url: https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together
-    - url: https://zserge.com/posts/tmux
     - url: https://www.cyberciti.biz/open-source/7-awesome-open-source-analytics-weblog-analysis-softwares
     - url: https://phauer.com/2020/package-by-feature
     - url: https://bucardo.org
