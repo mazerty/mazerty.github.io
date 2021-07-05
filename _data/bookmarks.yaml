@@ -117,6 +117,8 @@
       url: https://debezium.io
     - title: The Internals of PostgreSQL
       url: https://www.interdb.jp/pg
+    - title: Bucardo - PostgreSQL tools for replication, monitoring, and productivity
+      url: https://bucardo.org
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -211,6 +213,8 @@
       url: https://renenyffenegger.ch/notes/Linux/shell/commands/faketime
     - title: "Intel Virtualization: How VT-x, KVM and QEMU Work Together"
       url: https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together
+    - title: "Delicious Docker: Building minimal containers"
+      url: https://blog.yuzutech.fr/blog/minimal-docker-containers
 - title: Lead
   bookmarks:
     - title: Multipliers and Diminishers
@@ -233,6 +237,10 @@
       url: https://blog.wescale.fr/2020/04/02/vers-linfrastructure-craftsmanship-avec-les-git-hooks
     - title: Architecture Decision Records
       url: https://www.stemlaur.com/blog/2020/05/28/tech-adr
+    - title: Package by Feature
+      url: https://phauer.com/2020/package-by-feature
+    - title: Legacy systems
+      url: https://www.ufried.com/blog/legacy_systems
 - title: Distributed Systems
   bookmarks:
     - title: Microservices - Architecture nihilism in minimalism's clothes
@@ -289,6 +297,8 @@
       url: https://www.parabol.co
     - title: Open Policy Agent
       url: https://www.openpolicyagent.org
+    - title: Web Analytics Software
+      url: https://www.cyberciti.biz/open-source/7-awesome-open-source-analytics-weblog-analysis-softwares
 - title: Security
   bookmarks:
     - title: Maltrail
@@ -343,11 +353,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://www.cyberciti.biz/open-source/7-awesome-open-source-analytics-weblog-analysis-softwares
-    - url: https://phauer.com/2020/package-by-feature
-    - url: https://bucardo.org
-    - url: https://www.ufried.com/blog/legacy_systems
-    - url: https://blog.yuzutech.fr/blog/minimal-docker-containers
     - url: https://github.com/MichaelMure/git-bug
     - url: https://www.buesing.dev/post/kafka-ssl-certificates
     - url: https://medium.com/better-programming/kafka-acks-explained-c0515b3b707e
