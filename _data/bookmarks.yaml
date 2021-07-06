@@ -119,6 +119,8 @@
       url: https://www.interdb.jp/pg
     - title: Bucardo - PostgreSQL tools for replication, monitoring, and productivity
       url: https://bucardo.org
+    - title: pgsync
+      url: https://github.com/ankane/pgsync
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -269,6 +271,8 @@
       url: https://www.confluent.io/blog/ksqldb-ensures-consistent-internal-state-reliability-recovery-using-kafka-transactions
     - title: Kafka with AVRO vs. Protobuf vs. JSON Schema
       url: https://medium.com/@simon.aubury/kafka-with-avro-vs-kafka-with-protobuf-vs-kafka-with-json-schema-667494cbb2af
+    - title: Kafka Acks Explained
+      url: https://medium.com/better-programming/kafka-acks-explained-c0515b3b707e
 - title: POC
   bookmarks:
     - title: Bitwarden
@@ -299,6 +303,8 @@
       url: https://www.openpolicyagent.org
     - title: Web Analytics Software
       url: https://www.cyberciti.biz/open-source/7-awesome-open-source-analytics-weblog-analysis-softwares
+    - title: Git Bug
+      url: https://github.com/MichaelMure/git-bug
 - title: Security
   bookmarks:
     - title: Maltrail
@@ -309,6 +315,8 @@
       url: https://blog.wescale.fr/2020/09/24/scanner-les-vulnerabilites-de-son-site-web
     - title: Protect domains that do not send email
       url: https://www.gov.uk/guidance/protect-domains-that-dont-send-email
+    - title: What I learned about SSL certificates when building a secured Kafka cluster
+      url: https://www.buesing.dev/post/kafka-ssl-certificates
 - title: Network
   bookmarks:
     - title: What I've learned about scaling OSPF in datacenters
@@ -341,6 +349,8 @@
       url: https://replicastudios.com
     - title: FalsiSign
       url: https://gitlab.com/edouardklein/falsisign
+    - title: Produits Ubuntu-fr
+      url: https://enventelibre.org/fr/41-ubuntu-fr
 - title: Job
   bookmarks:
     - title: "Freelances : bien fixer, annoncer et négocier vos tarifs"
@@ -353,11 +363,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://github.com/MichaelMure/git-bug
-    - url: https://www.buesing.dev/post/kafka-ssl-certificates
-    - url: https://medium.com/better-programming/kafka-acks-explained-c0515b3b707e
-    - url: https://github.com/ankane/pgsync
-    - url: https://enventelibre.org/fr/41-ubuntu-fr
     - url: https://github.com/johnramsden/zectl
     - url: https://github.com/tchiotludo/akhq
     - url: https://msgpack.org
