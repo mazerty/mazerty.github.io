@@ -273,6 +273,10 @@
       url: https://medium.com/@simon.aubury/kafka-with-avro-vs-kafka-with-protobuf-vs-kafka-with-json-schema-667494cbb2af
     - title: Kafka Acks Explained
       url: https://medium.com/better-programming/kafka-acks-explained-c0515b3b707e
+    - title: AKHQ
+      url: https://github.com/tchiotludo/akhq
+    - title: Millions of tiny databases
+      url: https://blog.acolyer.org/2020/03/04/millions-of-tiny-databases
 - title: POC
   bookmarks:
     - title: Bitwarden
@@ -363,11 +367,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://github.com/johnramsden/zectl
-    - url: https://github.com/tchiotludo/akhq
-    - url: https://msgpack.org
-    - url: https://twitter.com/fermatslibrary/status/1238088369420357633
-    - url: https://blog.acolyer.org/2020/03/04/millions-of-tiny-databases
     - url: https://developers.google.com/web/tools/puppeteer
     - url: https://blog.thousandeyes.com/kafka-topics-pitfalls-and-insights
     - url: https://kenney.nl
