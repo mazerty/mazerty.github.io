@@ -181,6 +181,8 @@
       url: https://blog.ippon.fr/2020/05/04/definir-son-style-css-avec-cap
     - title: Quill
       url: https://github.com/quilljs/quill
+    - title: Puppeteer
+      url: https://developers.google.com/web/tools/puppeteer
 - title: System
   bookmarks:
     - title: Ubuntu Amazon EC2 AMI Locator
@@ -277,6 +279,8 @@
       url: https://github.com/tchiotludo/akhq
     - title: Millions of tiny databases
       url: https://blog.acolyer.org/2020/03/04/millions-of-tiny-databases
+    - title: "Kafka topics: pitfalls and insights"
+      url: https://blog.thousandeyes.com/kafka-topics-pitfalls-and-insights
 - title: POC
   bookmarks:
     - title: Bitwarden
@@ -367,11 +371,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://developers.google.com/web/tools/puppeteer
-    - url: https://blog.thousandeyes.com/kafka-topics-pitfalls-and-insights
-    - url: https://kenney.nl
-    - url: https://sematext.com/guides/kubernetes-logging
-    - url: https://medium.com/omio-engineering/cpu-limits-and-aggressive-throttling-in-kubernetes-c5b20bd8a718
     - url: https://homehack.nl/activitypub-the-secret-weapon-of-the-fediverse
     - url: https://paulosman.me/2019/12/30/production-oriented-development.html
     - url: https://m.subbu.org/studying-an-incident-8dffdd641c78
