@@ -247,6 +247,14 @@
       url: https://phauer.com/2020/package-by-feature
     - title: Legacy systems
       url: https://www.ufried.com/blog/legacy_systems
+    - title: Production-Oriented Development
+      url: https://paulosman.me/2019/12/30/production-oriented-development.html
+    - title: Studying an Incident
+      url: https://m.subbu.org/studying-an-incident-8dffdd641c78
+    - title: Delft Students on Software Architecture 2019
+      url: https://se.ewi.tudelft.nl/desosa2019
+    - title: 5 best practices for nailing incident retrospectives
+      url: https://www.blameless.com/blog/5-best-practices-nailing-postmortems
 - title: Distributed Systems
   bookmarks:
     - title: Microservices - Architecture nihilism in minimalism's clothes
@@ -361,6 +369,8 @@
       url: https://gitlab.com/edouardklein/falsisign
     - title: Produits Ubuntu-fr
       url: https://enventelibre.org/fr/41-ubuntu-fr
+    - title: ActivityPub, the secret weapon of the Fediverse
+      url: https://homehack.nl/activitypub-the-secret-weapon-of-the-fediverse
 - title: Job
   bookmarks:
     - title: "Freelances : bien fixer, annoncer et négocier vos tarifs"
@@ -373,11 +383,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://homehack.nl/activitypub-the-secret-weapon-of-the-fediverse
-    - url: https://paulosman.me/2019/12/30/production-oriented-development.html
-    - url: https://m.subbu.org/studying-an-incident-8dffdd641c78
-    - url: https://se.ewi.tudelft.nl/desosa2019
-    - url: https://www.blameless.com/blog/5-best-practices-nailing-postmortems
     - url: https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc
     - url: https://aws.amazon.com/blogs/aws-cost-management/getting-started-with-aws-savings-plans
     - url: https://github.com/imsnif/bandwhich
