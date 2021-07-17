@@ -123,6 +123,8 @@
       url: https://bucardo.org
     - title: pgsync
       url: https://github.com/ankane/pgsync
+    - title: Distributed data for microservices - Event Sourcing vs. Change Data Capture
+      url: https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc
 - title: Testing
   bookmarks:
     - title: Modern best practices for testing (not limited to Java)
@@ -221,6 +223,10 @@
       url: https://binarydebt.wordpress.com/2018/10/14/intel-virtualisation-how-vt-x-kvm-and-qemu-work-together
     - title: "Delicious Docker: Building minimal containers"
       url: https://blog.yuzutech.fr/blog/minimal-docker-containers
+    - title: bandwhich
+      url: https://github.com/imsnif/bandwhich
+    - title: Five years of Btrfs
+      url: https://markmcb.com/2020/01/07/five-years-of-btrfs
 - title: Lead
   bookmarks:
     - title: Multipliers and Diminishers
@@ -323,6 +329,8 @@
       url: https://www.cyberciti.biz/open-source/7-awesome-open-source-analytics-weblog-analysis-softwares
     - title: Git Bug
       url: https://github.com/MichaelMure/git-bug
+    - title: RocksDB
+      url: https://rockset.com/blog/rocksdb-is-eating-the-database-world
 - title: Security
   bookmarks:
     - title: Maltrail
@@ -383,11 +391,6 @@
       url: https://www.laou.fr
 - title: Uncharted
   bookmarks:
-    - url: https://debezium.io/blog/2020/02/10/event-sourcing-vs-cdc
-    - url: https://aws.amazon.com/blogs/aws-cost-management/getting-started-with-aws-savings-plans
-    - url: https://github.com/imsnif/bandwhich
-    - url: https://markmcb.com/2020/01/07/five-years-of-btrfs
-    - url: https://rockset.com/blog/rocksdb-is-eating-the-database-world
     - url: https://netflixtechblog.com/predictive-cpu-isolation-of-containers-at-netflix-91f014d856c7
     - url: https://sizle.io/how-to-maximise-traffic-to-a-bootstrapped-product-hunt-launch
     - url: https://www.pingtimeout.fr/posts/2020-01-12-limit-vm-bandwidth
